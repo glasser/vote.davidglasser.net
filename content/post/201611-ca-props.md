@@ -233,6 +233,15 @@ NRA line.
 The new changes that this introduces seem generally positive, at least if you
 hope to live in a world with less gun proliferation.
 
+I recognize that these changes will have a negative impact on responsible
+recreational shooters; I count several of them as friends and have heard clearly
+from them that this will have a negative impact on them. I'm sympathetic, but
+only to a point. Our country (though admittedly not California) spends too much
+energy bending over backwards to the gun lobby. I encourage my responsible
+friends to find an alternative to the NRA to help move gun politics in this
+country in a positive direction; until then I'm just going to stick to
+supporting gun control.
+
 ### YES ON 64
 
 The prohibition on marijuana serves no public health benefit and is a major
