@@ -9,7 +9,9 @@ menu:
 
 I have not yet done full research on most of the candidates for contested
 positions on the ballot. I will hopefully find time to research them and write
-up all candidates soon. Here are my current recommendations in ballot order:
+up all candidates soon, to add to my proposition recommendations.
+
+Here are my current recommendations in ballot order:
 
 <!--more-->
 
