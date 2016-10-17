@@ -134,6 +134,8 @@ work this amount into your decision-making strategy. And if you've owned the
 house for a long time, then you likely can get a home equity loan for that
 amount (something your tenants have no access to).
 
+(Note: San Francisco already has a similarly-sized fee.)
+
 The school kids clause seems pretty unequivocably good to me as well.
 
 There are no arguments submitted against this proposition.
