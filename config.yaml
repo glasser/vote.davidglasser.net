@@ -1,0 +1,55 @@
+baseurl: http://vote.davidglasser.net/
+title: David Glasser's Voting Guide
+languageCode: en-us
+theme: hyde-x
+paginate: 10
+metaDataFormat: yaml
+
+author:
+  name: David Glasser
+
+permalinks:
+# Optional. Change the permalink format for the 'post' content type.
+# The format shown here is the same one Jekyll/Octopress uses by default.
+  post: /:year/:month/:day/:title/
+
+
+params:
+  # Display full articles.
+  truncate: false
+
+  # Hide estimated reading time for posts.
+  # Default (if omitted) is false.
+  hideReadingTime: true
+
+  # Changes sidebar background and link/accent colours.
+  # See below for more colour options.
+  # This also works: "theme-base-08 layout-reverse", or just "layout-reverse".
+  theme: theme-base-09 layout-reverse
+
+  # Select a syntax highight.
+  # Check the static/css/highlight directory for options.
+  # highlight = "sunburst"
+
+  # Optional additional custom CSS file URL, will override other styles.
+  # customCSS = ""
+
+  # Displays under the author name in the sidebar, keep it short.
+  # You can use markdown here.
+  tagline: Thoughts on my ballot.
+
+  # Text for the top menu link, which goes the root URL for the site.
+  # Default (if omitted) is "Blog".
+  home: Home
+
+  # Metadata used to drive integrations.
+  # googleAnalytics = "Your Google Analytics tracking code"
+  # gravatarHash = "MD5 hash of your Gravatar email address"
+
+  # Sidebar social links, these must be full URLs.
+  github: https://github.com/glasser
+  twitter: https://twitter.com/glasser
+
+  # Other social-like sidebar links
+  rss: true
+  # flattr = ""  # populate with your flattr uid
