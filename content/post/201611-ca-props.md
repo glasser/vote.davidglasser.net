@@ -6,7 +6,8 @@ menu:
     name: Nov 2016 CA Props
 ---
 
-Here are my current thoughts on the November 2016 ballot.
+Here are my current thoughts on the statewide propositions on the November 2016
+ballot.
 
 ## Yes on 51?
 
