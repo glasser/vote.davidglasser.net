@@ -47,7 +47,7 @@ params:
   # gravatarHash = "MD5 hash of your Gravatar email address"
 
   # Sidebar social links, these must be full URLs.
-  github: https://github.com/glasser
+  github: https://github.com/glasser/vote.davidglasser.net
   twitter: https://twitter.com/glasser
 
   # Other social-like sidebar links

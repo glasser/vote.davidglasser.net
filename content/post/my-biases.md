@@ -77,4 +77,8 @@ voting for local elections and hope to see more of it in the future.
 I generally indicate how strongly I feel about my position on an issue by
 WHETHER OR NOT I CAPITALIZE MY OPINION.
 
-XXX may update, link to GitHub 
+If I change my mind about an issue before the election, I will update the
+relevant post in place, and may not explicitly mention that I did so. However,
+the full change history for this site
+is
+[publicly available on GitHub](https://github.com/glasser/vote.davidglasser.net).
