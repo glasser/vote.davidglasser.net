@@ -16,13 +16,6 @@ read
 write up my thoughts on candidates soon.
 
 
-## AC Transit (Alameda and Contra Costa counties)
-
-### YES ON C1
-
-This renews the current AC Transit flat property tax for 20 more years. If this
-fails, buses will lose a major source of funding.  Please vote yes: like many
-other taxes, it needs 2/3 support.
 
 ## BART (Alameda, Contra Costa, and SF counties)
 
@@ -39,6 +32,17 @@ upset that BART employees are moderately well paid.  Frankly --- BART enables
 the economy of the Bay Area to work, and certainly enables my entire current
 lifestyle. I am proud that the employees who make the system work are paid
 well. They deserve it.
+
+<!--more-->
+
+
+## AC Transit (Alameda and Contra Costa counties)
+
+### YES ON C1
+
+This renews the current AC Transit flat property tax for 20 more years. If this
+fails, buses will lose a major source of funding.  Please vote yes: like many
+other taxes, it needs 2/3 support.
 
 ## Alameda County
 ### Yes on A1

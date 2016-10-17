@@ -16,7 +16,7 @@ author:
 
 params:
   # Display full articles.
-  truncate: false
+  truncate: true
 
   # Hide estimated reading time for posts.
   # Default (if omitted) is false.

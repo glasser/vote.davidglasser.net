@@ -21,6 +21,8 @@ this for years on private locations like LiveJournal and Facebook; for November
 strong opinions about my ballot" is not my only contribution to making our
 society a better place, but do not always live up to that standard.
 
+<!--more-->
+
 I'm a thirty-something cis white Jewish man living in Berkeley, California. I'm
 the father of a tiny baby who I intend to send to our local public schools. I
 formerly rented in the Mission and SOMA in San Francisco. I work at a VC-funded

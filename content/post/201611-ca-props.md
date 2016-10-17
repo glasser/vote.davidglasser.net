@@ -17,6 +17,7 @@ soon.
 
 ### Yes on 51?
 
+
 Bonds for school construction. In general I am in favor of higher taxes to spend
 more on schools, and bonds are a good alternative to taxes for construction
 costs. Both state parties support this.  Opposition is mostly the hard-line
@@ -25,6 +26,10 @@ always agree with. It is a shame that any of this goes to charter schools. But
 on the whole this seems worthwhile. Looking at the "general fund debt-service
 ratio" shows that this would not increase the amount we spend on debt service by
 an enormous amount.
+
+
+<!--more-->
+
 
 ### No on 52?
 This one's weird. Basically, it takes an existing practice where the state gets
