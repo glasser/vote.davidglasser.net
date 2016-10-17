@@ -10,6 +10,11 @@ menu:
 Here are my current thoughts on the statewide propositions on the November 2016
 ballot.
 
+You can also
+read [my thoughts on local propositions]({{< relref "201611-local-props.md" >}})
+(Berkeley, East Bay regional, and BART). I'll write up my thoughts on candidates
+soon.
+
 ### Yes on 51?
 
 Bonds for school construction. In general I am in favor of higher taxes to spend

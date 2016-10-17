@@ -11,6 +11,12 @@ menu:
 Here are my current thoughts on the Berkeley, Alameda County, AC Transit, and
 BART propositions on the November 2016 ballot.
 
+You can also
+read
+[my thoughts on statewide propositions]({{< relref "201611-ca-props.md" >}}). I'll
+write up my thoughts on candidates soon.
+
+
 ## AC Transit (Alameda and Contra Costa counties)
 
 ### YES ON C1
