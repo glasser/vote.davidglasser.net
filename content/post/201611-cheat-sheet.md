@@ -27,35 +27,35 @@ Berkeley Rent Board | ?
 Berkeley School Board | ?
 AC Transit Director (at-large) | ?
 BART Director, D7 | Lateefah Simon?
-51 | Yes?
-52 | No?
-53 | NO
-54 | Yes?
-55 | YES
-56 | YES
-57 | YES
-58 | YES
-59 | Yes ☹
-60 | NO
-61 | Unsure, lean no
-62 | YES
-63 | YES
-64 | YES
-65 | NO
-66 | NO
-67 | YES
-A1 | Yes
-E1 | YES
-T1 | YES
-U1 | Yes
-DD | No
-V1 | YES
-W1 | Yes?
-X1 | YES
-Y1 | YES
-Z1 | YES
-AA | YES
-BB | NO
-CC | NO
+51 (school construction bond) | Yes?
+52 (hospital funding) | No?
+53 (more propositions) | NO
+54 (legislative transparency) | Yes?
+55 (no tax cut for the rich)| YES
+56 (tobacco tax) | YES
+57 (more parole) | YES
+58 (language immersion) | YES
+59 (citizen's united poll) | Yes ☹
+60 (condoms in porn) | NO
+61 (drug pricing) | Unsure, lean no
+62 (repeal death penalty) | YES
+63 (ammo control) | YES
+64 (legalize marijuana) | YES
+65 (anti-67 poison pill) | NO
+66 (sloppier death penalty) | NO
+67 (plastic bag ban) | YES
+A1 (affordable housing bond) | Yes
+E1 (renew school tax) | YES
+T1 (infrastructure bond) | YES
+U1 (city council's rental tax) | Yes
+DD (big landlord's rental tax) | No
+V1 (let us spend our budget) | YES
+W1 (redistricting commission) | Yes?
+X1 (election financing) | YES
+Y1 (teens vote for school board) | YES
+Z1 (allow more affordable housing) | YES
+AA (owner move-ins) | YES
+BB (redundant minimum wage) | NO
+CC (redundant minimum wage) | NO
 Berkeley Mayor | ?
 Berkeley City Council, D3 | ?
