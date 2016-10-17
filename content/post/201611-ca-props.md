@@ -4,12 +4,13 @@ title: 'November 2016: California Propositions'
 menu:
   main:
     name: Nov 2016 CA Props
+    weight: 2
 ---
 
 Here are my current thoughts on the statewide propositions on the November 2016
 ballot.
 
-## Yes on 51?
+### Yes on 51?
 
 Bonds for school construction. In general I am in favor of higher taxes to spend
 more on schools, and bonds are a good alternative to taxes for construction
@@ -20,7 +21,7 @@ on the whole this seems worthwhile. Looking at the "general fund debt-service
 ratio" shows that this would not increase the amount we spend on debt service by
 an enormous amount.
 
-## No on 52?
+### No on 52?
 This one's weird. Basically, it takes an existing practice where the state gets
 more federal money for "free" for hospitals and encodes in the constitution.  It
 also ensures that all of the money related to this practice goes to hospitals
@@ -55,7 +56,7 @@ a bad use of the hospital money?
 As of now I'm leaning towards no, primarily because a "no" vote won't lose the
 federal matching funds but will keep the state budget more flexible.
 
-## NO ON 53
+### NO ON 53
 We have too many propositions already. Currently voters do not need to vote on
 bonds that will be paid back from usage fees (as opposed to taxes). This would
 add a requirement for these bonds for large projects ($2 billion+) to be voted
@@ -68,7 +69,7 @@ on at the statewide level.  This is bad because:
 - Specifically, it's likely to be used to tie up high-speed rail construction
   (a project which I support).
 
-## Yes on 54?
+### Yes on 54?
 
 This proposition does two separate things:
 
@@ -105,7 +106,7 @@ It is also mostly funded by conservative billionaire Charles Munger.
 
 All in all, I am tentatively pro but could be convinced otherwise.
 
-## YES ON 55
+### YES ON 55
 
 4 years ago, we voted to slightly increase income tax on the rich (>$250K for
 individuals, >$500K for couples) as well as a regressive sales tax
@@ -126,7 +127,7 @@ But frankly, I wish this proposition was raising the income tax further. At the
 very least, this is the wrong time to effectively cut taxes on the rich.
 
 
-## YES ON 56
+### YES ON 56
 
 This increases the tax on tobacco by a fair amount, and also includes
 e-cigarettes as tobacco products. Currently California's cigarette tax is the
@@ -139,14 +140,23 @@ E-cigarettes are just as addictive as tobacco, and vaping sets off my wife's
 allergies just as much as cigarettes do, and they should be treated similarly
 under the law.
 
-## YES ON 57
+One note: Proposition 98 of 1988 places certain requirements on taxes in order
+to assure that a high percentage of the state budget goes to education. (These
+days, more than half of the state budget goes to education.) This proposition
+sends all its money to health-related issues and explicitly exempts itself from
+Prop 98. The cigarette manufacturers have seized on this and are sending out
+flyers which say that this is an attempt to "cheat schools out of money". In
+fact, they sent me flyers which just say that and don't even mention what the
+tax is on. It's disingenuous and makes me want to vote yes even more.
+
+### YES ON 57
 
 This increases access to parole for felons convicted of nonviolent crimes. It
 also makes judges, not prosecutors, solely responsible for deciding whether to
 try juveniles as adults in court. Anything to end our culture of incarceration
 and our overcrowded prisons seems good.
 
-## YES ON 58
+### YES ON 58
 
 18 years ago, anti-Hispanic bigots made teaching students with immersion in
 non-English languages in public schools much more difficult. (They sometimes
@@ -154,13 +164,13 @@ voiced their concerns as concerns that Hispanic kids were not being taught
 English at all but as far as I can tell this was specious.)  This would return
 that control to the local level. Sounds right to me.
 
-## Yes on 59, sadly
+### Yes on 59, sadly
 
 Advisory questions are stupid and shouldn't be on the ballot, but given that
 it's here, it's better that we send the message that Citizens United sucks than
 the opposite. Thanks a lot, legislature.
 
-## NO ON 60
+### NO ON 60
 
 This would require the use of condoms in porn. I understand the arguments for it
 but the arguments against are much more convincing. This seems to be a solution
@@ -178,7 +188,7 @@ oppressed majority of people who really wish that there was some collective
 action to allow them to use condoms. I have not yet seen this argument made in a
 compelling manner.
 
-## Unsure on 61; lean no.
+### Unsure on 61; lean no.
 
 This proposition intentionally ties the hands of state agencies, forbidding them
 from paying more for drugs than the US Department of Veteran Affairs
@@ -192,7 +202,7 @@ or raising the VA prices (though there are some legal caps on VA prices).
 The League of Pissed-Off Voters and Chronicle are both opposed; I tend to agree
 with them when they agree with each other.
 
-## YES ON 62 (not tricky 66!)
+### YES ON 62 (not tricky 66!)
 
 Repeal the state death penalty. This is a no-brainer for me: the death penalty
 is immoral both in theory and in its racist and expensive practice. California
@@ -202,7 +212,7 @@ proposition which is awful and should lose. Yes on 62, no on tricky 66.)
 (I note that Alameda County Sheriff Gregory Ahern is opposed. I plan to remember
 that when he is up for election, I guess maybe in 2018.)
 
-## YES ON 63
+### YES ON 63
 
 This prohibits the possession of large-capacity ammunition magazines and would
 require most individuals to pass a background check and obtain authorization
@@ -218,7 +228,7 @@ NRA line.
 The new changes that this introduces seem generally positive, at least if you
 hope to live in a world with less gun proliferation.
 
-## YES ON 64
+### YES ON 64
 
 The prohibition on marijuana serves no public health benefit and is a major
 component of our racist police state. The time for this is overdue. The only
@@ -226,7 +236,7 @@ downside I can see is that it in the short run it may hurt the economy of some
 northern counties which are driven by the black market, but in the big picture
 this is far better.
 
-## NO ON TRICKY 65
+### NO ON TRICKY 65
 This is a bullshit attempt to look like you're supporting the environment that
 is intended as a sneaky poison pill for 67: ie, if it gets more votes than 67,
 67 may not take effect.
@@ -238,14 +248,14 @@ suppor plastic bag bans.
 15 billion single-use plastic bags are distributed in CA every year even with
 the huge number of local bans. We can do better.
 
-## NO ON TRICKY 66
+### NO ON TRICKY 66
 
 If you look at the high expense of the death penalty and say "obviously the way
 to fix this is to prevent innocent people from having due process and kill them
 faster instead", this is the proposition for you, and also you are an awful
 human being. Vote yes on 62 and no on 66.
 
-## YES ON 67
+### YES ON 67
 
 Large parts of California (SF, Alameda County, unincorporated Marin, San Mateo,
 and LA counties as well as most of their cities, etc) have successfully

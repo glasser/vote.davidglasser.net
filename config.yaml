@@ -8,9 +8,9 @@ metaDataFormat: yaml
 author:
   name: David Glasser
 
-permalinks:
-# Optional. Change the permalink format for the 'post' content type.
-# The format shown here is the same one Jekyll/Octopress uses by default.
+# permalinks:
+#   # Optional. Change the permalink format for the 'post' content type.
+#   # The format shown here is the same one Jekyll/Octopress uses by default.
 #  post: /:year/:month/:day/:slug/
 
 
