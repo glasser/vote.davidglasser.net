@@ -1,6 +1,5 @@
 ---
 date: 2016-10-16T12:32:38-07:00
-draft: true
 menu: main
 title: My Biases
 ---

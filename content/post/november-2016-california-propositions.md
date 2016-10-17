@@ -1,7 +1,6 @@
 ---
 date: 2016-10-16T17:44:18-07:00
 title: 'November 2016: California Propositions'
-draft: true
 menu:
   main:
     name: Nov 2016 CA Props
