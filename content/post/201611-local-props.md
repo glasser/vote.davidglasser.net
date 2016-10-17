@@ -1,7 +1,6 @@
 ---
 date: 2016-10-16T17:44:18-07:00
 title: 'November 2016: Local Propositions'
-draft: true
 menu:
   main:
     name: Nov 2016 Local Props
