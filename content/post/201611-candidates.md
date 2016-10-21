@@ -8,7 +8,8 @@ menu:
 ---
 
 Here are my current thoughts on candidates on the November 2016 ballot in
-Berkeley. (I have not yet researched Berkeley rent and school boards.)
+Berkeley. (I have not yet researched Berkeley rent and school boards or AC
+Transit director.)
 
 
 You can also read my thoughts
