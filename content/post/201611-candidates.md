@@ -272,7 +272,7 @@ affordable. I'm also sympathetic to the argument that that's one of those
 oversimplificiations that sounds obvious to non-experts but the truth is
 subtler... and I'm really not excited about literally voting for realtors.
 
-Arreguin seems to be more of an anti-development hard-liners than Bartlett. And
+Arreguin seems to be more of an anti-development hard-liner than Bartlett. And
 Capitelli seems to have stronger overall policy credentials than Matthews.  So
 I'm tempted to "split my vote": vote for Bartlett for City Council and for
 Capitelli (#2 after Gould) for Mayor.  I imagine that Capitelli would push for
