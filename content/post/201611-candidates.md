@@ -42,14 +42,15 @@ election advice.
 Gary Johnson's libertarian philosophy is entirely the opposite of my belief that
 government is capable of being a force for good in our society. Jill Stein may
 have some ideas that sound nice, but when you dig in you find that her knowledge
-doesn't go very deep, and things like her silently editing her pro-Brexit
-announcement to say exactly the opposite doesn't exactly assure me that she is
-the magical perfect embodiment of purity that some of her supporters may imagine
-she is.  In any case, I don't think it makes sense to give the country's most
-powerful position to somebody from a political party so unrepresentative of our
-country and so out of touch with the actual work of governing that they haven't
-managed to find a single one of this country's 7,383 state legislative districts
-willing to elect one of them.
+doesn't go very deep, and incidents like the time she silently edited her
+pro-Brexit post to turn it into an anti-Brexit statement don't assure me that
+she is the magical perfect embodiment of purity that some of her supporters
+imagine she is.  In any case, I don't think it makes sense to give the country's
+most powerful position to somebody from a political party so unrepresentative of
+our country and so out of touch with the actual work of governing that they
+haven't managed to find a single one of this country's 7,383 state legislative
+districts willing to elect one of their members.  (Nor do I think such a party
+is an appropriate use of matching federal campaign funds.)
 
 And about the "safe state" concept. Perhaps you agree with me that Clinton is
 vastly superior to Trump but still find Stein or Johnson to be superior to her.
