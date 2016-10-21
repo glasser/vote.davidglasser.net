@@ -131,7 +131,8 @@ spend time learning about Thurmond.
 (To those of you who think that the Green Party is a legitimate political party
 with an interest in helping govern our country rather than a publicity-hungry
 gang of whiners: why is there no Green candidate running for this seat?  The
-Republican got *nine percent*.)
+Republican got *nine percent*, and the structure of our elections could have
+easily led to a November election with only Thurmond and a Green on the ballot.)
 
 
 
