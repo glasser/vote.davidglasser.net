@@ -161,7 +161,7 @@ two incumbents.
 
 ## AC Transit Director (at-large): ?
 
-I have not yet done research into this race.
+I have not yet researched this race.
 
 ## BART Director, D7 | Lateefah Simon
 
