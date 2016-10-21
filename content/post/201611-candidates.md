@@ -216,7 +216,7 @@ literature listed "Save Alta Bates" (the hospital that may need to close by 2030
 due to seismic problems) as one of his top priorities. Yet when I submitted as a
 debate question "How will you save Alta Bates?" his answer consisted entirely of
 describing why it would be awful to lose Alta Bates and contained no ideas about
-solutions.  Al Murray also had very real plans about how to fix problems.
+solutions.  Al Murray also had no real ideas about how to fix problems.
 
 It really feels to me like Ben Bartlett's heart is in the right place. He too
 strikes me as an intelligent hard worker, and he cares deeply about preventing
