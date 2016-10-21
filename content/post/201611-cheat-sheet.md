@@ -17,16 +17,16 @@ Here are my current recommendations in ballot order:
 
 what|my vote
 --:|:-----
-President and Vice President | Hillary Clinton and Tim Kaine
-US Senator | Kamala Harris
-US Representative, D13 | Barbara Lee
+President and Vice President | HILLARY CLINTON AND TIM KAINE
+US Senator | KAMALA HARRIS
+US Representative, D13 | BARBARA LEE
 State Senator, D9 | Nancy Skinner?
 State Assembly, D15 | Tony Thurmond
 Superior Court Judge, Office 1 | Scott Jackson
 Berkeley Rent Board | ?
 Berkeley School Board | ?
 AC Transit Director (at-large) | ?
-BART Director, D7 | Lateefah Simon?
+BART Director, D7 | Lateefah Simon
 51 (school construction bond) | Yes?
 52 (hospital funding) | No?
 53 (more propositions) | NO
@@ -57,5 +57,5 @@ Z1 (allow more affordable housing) | YES
 AA (owner move-ins) | YES
 BB (redundant minimum wage) | NO
 CC (redundant minimum wage) | NO
-Berkeley Mayor | ?
-Berkeley City Council, D3 | ?
+Berkeley Mayor | Ben Gould #1, Laurie Capitelli #2?
+Berkeley City Council, D3 | Ben Bartlett #1?

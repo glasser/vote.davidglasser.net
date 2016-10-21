@@ -10,10 +10,12 @@ menu:
 Here are my current thoughts on the statewide propositions on the November 2016
 ballot.
 
-You can also
-read [my thoughts on local propositions]({{< relref "201611-local-props.md" >}})
-(Berkeley, East Bay regional, and BART). I'll write up my thoughts on candidates
-soon.
+
+You can also read my thoughts
+on [local propositions]({{< relref "201611-local-props.md" >}}) (Berkeley, East
+Bay regional, and BART) and
+on [candidates]({{< relref "201611-candidates.md" >}}).
+
 
 ### Yes on 51?
 
