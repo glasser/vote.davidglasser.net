@@ -143,7 +143,7 @@ primary, Jackson was one of the two candidates I liked. Back then my impression
 was
 that
 [Barbara Thomas is opposed to renter's rights](http://www.ebcitizen.com/2016/04/judging-alameda-county-superior-court.html). The
-fact that she pitches herself as a "victim's rights attorney" really rubs me the
+fact that she pitches herself as a "victims rights attorney" really rubs me the
 wrong way: our criminal justice system is specifically not designed as a
 mechanism for victims to get revenge on criminals, but for our society as a
 whole to prevent bad behavior. Jackson has the endorsements and attitude that
