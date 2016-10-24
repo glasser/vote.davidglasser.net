@@ -190,9 +190,24 @@ not supporting their Mayoral and City Council candidates of choice.
 I have not yet researched this race, although I have heard good things about the
 two incumbents.
 
-## AC Transit Director (at-large): ?
+## AC Transit Director (at-large): Chris Peeples?
 
-I have not yet researched this race.
+So this is the current President of the Board of Directors, who's been on the
+board for almost two decades, vs a retired bus driver who has run and lost 3
+times recently.  While I can find statements from the candidates to various
+groups, I can't find much in the way of analysis or endorsements other than
+the
+[somewhat conservative East Bay Times](http://www.eastbaytimes.com/2016/09/22/editorial-ac-transits-345-million-debt-concerning-east-bay-times/) (who
+endorse no on RR and C1, so clearly our views on transit don't line up) and
+the
+[League of Conservation Voters East Bay](http://www.lcveastbay.org/current-endorsements/).
+
+While the idea of voting for a queer woman of color who represents the transit
+system's employees appeals to me, I feel uncomfortable voting for her without
+first finding any organization who endorses her in this particular
+election. I've found some resources that said that she was a better choice than
+some of her previous opponents, but not necessarily this one.  Without seeing
+any endorsements for Jones, I will probably vote for Peeples or not vote.
 
 ## BART Director, District 7: Lateefah Simon
 
