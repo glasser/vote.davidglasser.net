@@ -8,8 +8,8 @@ menu:
 ---
 
 Here are my current thoughts on candidates on the November 2016 ballot in
-Berkeley. (I have not yet researched Berkeley rent and school boards or AC
-Transit director.)
+Berkeley, in ballot order. (I have not yet researched Berkeley school board or
+AC Transit director.)
 
 
 You can also read my thoughts
@@ -150,9 +150,39 @@ whole to prevent bad behavior. Jackson has the endorsements and attitude that
 make sense for me.
 
 
-## Berkeley Rent Stabilization Board: ?
+## Berkeley Rent Stabilization Board: The CALI slate: Christina Murphy, Alejandro Soto-Vigil, Leah Simon-Weisberg, and Igor Tregub
 
-I have not yet researched this race.
+There are six candidates for four positions on the Rent Stabilization Board; we
+get to vote for 4 of them. The best information I found on the candidates
+is
+[this grid of all of their answers to questions from Berkeleyside](http://www.berkeleyside.com/wp-content/uploads/2016/10/Berkeley-Rent-Stabilization-Board.pdf).
+
+They have divided themselves into two slates. There's
+the [CALI slate](http://berkeleyrentboard.org/), named after the first names
+Christina, Alejandro, Leah, and Igor. And then there's
+the [FAIR slate](http://www.fairberkeley.com/) of Judy Hunt and Nate Wollman,
+which is just a random acronym of four words.  (I mention this because my first
+impression was that this was two overlapping slates with Alejandro and Igor on
+both of them --- not true!)
+
+The CALI slate portrays themselves as being more "pro-tenant" and "progressive",
+for Berkeley definitions of progressive. The FAIR slate describes themselves as
+being more balanced (which can be portrayed as "pro-landlord").  The CALI slate
+on the whole seems more aligned with the Arreguin/Bartlett side of things, and
+the FAIR slate with the Capitelli/Matthews side (see my thoughts on City Council
+and Mayor below).
+
+As I describe below, I'm pretty torn between the two "factions" of Berkeley
+politics. My heart really wants to always side with the pro-tenant,
+"progressive", stick-it-to-the-man approach. But I don't think the solution to a
+housing crunch is to continue to not build housing, which is why I'm sadly
+endorsing the realtor side for City Council and Mayor.
+
+But hey, the Rent Stabilization Board doesn't have any thing to do with
+approving new construction, as far as I know. So it doesn't matter how NIMBY the
+rent board is --- here's a place where I feel comfortable letting my
+bleeding-heart sympathies out. I'm planning to vote for the CALI slate, despite
+not supporting their Mayoral and City Council candidates of choice.
 
 ## Berkeley School Directors: ?
 
@@ -174,7 +204,11 @@ The incumbent, Zakhary Mallett, really really wants you to know that he really
 really doesn't like the BART employees and that the transit strike was all their
 fault. My memory was that the 2013 strike was over sub-cost-of-living wage
 increases and safety issues. I'm not inspired by bashing the hard workers who
-make my life possible (and still are paid less than I am even post-strike)
+make my life possible (and still are paid less than I am even post-strike). To
+his credit, he is easily accessible and makes his positions very clear; see his
+thorough engagement with critics
+on
+[his Facebook ad](https://www.facebook.com/MallettForBART/posts/1174589212608150).
 
 
 ## Berkeley City Council, District 3: Ben Bartlett #1?

@@ -23,7 +23,7 @@ US Representative, D13 | BARBARA LEE
 State Senator, D9 | Nancy Skinner?
 State Assembly, D15 | Tony Thurmond
 Superior Court Judge, Office 1 | Scott Jackson
-Berkeley Rent Board | ?
+Berkeley Rent Board | CALI: Christina Murphy, Alejandro Soto-Vigil, Leah Simon-Weisberg, Igor Tregub
 Berkeley School Board | ?
 AC Transit Director (at-large) | ?
 BART Director, D7 | Lateefah Simon
