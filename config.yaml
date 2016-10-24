@@ -13,6 +13,9 @@ author:
 #   # The format shown here is the same one Jekyll/Octopress uses by default.
 #  post: /:year/:month/:day/:slug/
 
+blackfriday:
+  # otherwise 9/11 looks weird
+  fractions: false
 
 params:
   # Display full articles.
