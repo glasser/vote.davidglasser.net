@@ -22,15 +22,16 @@ a [cheat sheet]({{< relref "201611-cheat-sheet.md" >}}) summary.
 
 Honestly, I'd rather spend my time writing about other choices, but in short: I
 think Hillary Clinton will make an excellent President. I don't agree with her
-on everything --- her approach foreign policy is slightly more aggressive than I
-imagine I would be, although I also have far less experience in it than she does
---- but generally find her approach to domestic issues to be commendable and
-practical. The decades of faux-scandals whipped up by the right (and this year,
-by Sanders supporters as well) have repeatedly failed to bring any substance. No
-candidate has been investigated as deeply as she has, and the lack of actual
-major problems discovered makes me pretty confident that I know what type of
-person she is, and I'm not worried.  I hope that she will expand on Obama's
-legacy and use her superior tenacity to make even more progress for justice.
+on everything --- her approach to foreign policy is slightly more aggressive
+than I imagine I would be as President, although I also have far less experience
+in it than she does --- but generally find her approach to domestic issues to be
+commendable and practical. The decades of faux-scandals whipped up by the right
+(and this year, by Sanders supporters as well) have repeatedly failed to bring
+any substance. No candidate has been investigated as deeply as she has, and the
+lack of actual major problems discovered makes me pretty confident that I know
+what type of person she is, and I'm not worried.  I hope that she will expand on
+Obama's legacy and use her superior tenacity to make even more progress for
+justice.
 
 But let's talk about the alternatives.
 
