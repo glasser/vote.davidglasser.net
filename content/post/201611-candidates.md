@@ -8,8 +8,7 @@ menu:
 ---
 
 Here are my current thoughts on candidates on the November 2016 ballot in
-Berkeley, in ballot order. (I have not yet researched Berkeley school board or
-AC Transit director.)
+Berkeley, in ballot order.
 
 
 You can also read my thoughts
@@ -186,10 +185,38 @@ rent board is --- here's a place where I feel comfortable letting my
 bleeding-heart sympathies out. I'm planning to vote for the CALI slate, despite
 not supporting their Mayoral and City Council candidates of choice.
 
-## Berkeley School Directors: ?
+## Berkeley School Directors: Judy Appel and Beatriz Leyva-Cutler?
 
-I have not yet researched this race, although I have heard good things about the
-two incumbents.
+There are three candidates for two seats on the School Board, as well as a
+write-in candidate; we can vote for two. The best information I've found has
+been
+via
+[Berkeleyside's interviews](http://www.berkeleyside.com/2016/10/14/election-2016-berkeley-spotlight-on-the-school-board/).
+
+[Sikder](http://www.berkeleyside.com/2016/10/14/election-2016-who-is-abdur-sikder/),
+the non-incumbent, doesn't seem to have any detailed understanding of the
+challenges specifically facing BUSD; his answers are all very vague. He does not
+seem to have a personal connection to the school district (his kids are at UC
+Berkeley and Berkeley City College, not the school district). The only
+endorsement I could find for him was
+from
+[an organization that also endorsed the two incumbents](http://www.evolve-ca.org/2016-endorsements).
+
+[Harrison, the write-in candidate](http://www.berkeleyside.com/wp-content/uploads/2016/10/request.pdf),
+has an anti-school perspective that is certainly compelling in its way but not
+in my mind the best fit for leading a public school district.
+
+I'm not an expert on the details of the problems facing BUSD. If one reads the
+comments on Berkeleyside one would come to the conclusion that the only problem
+facing the district is that it allows kids from Oakland and Richmond to register
+(the commenters vary only on whether or not they are explicit about the race of
+the kids they are so concerned with keeping away). Though my child is not yet
+old enough for school, I suspect that this issue is far less relevant than the
+stingy racist commenters think it is.
+
+The advice I've gotten from a few friends who do know more about the school
+board than me is that the incumbents have been fine and are worth
+re-electing. That is also the conclusion I came to based on their interviews.
 
 ## AC Transit Director (at-large): Chris Peeples?
 
@@ -227,6 +254,7 @@ thorough engagement with critics
 on
 [his Facebook ad](https://www.facebook.com/MallettForBART/posts/1174589212608150).
 
+I have heard literally nothing about the other two candidates.
 
 ## Berkeley City Council, District 3: Deborah Matthews #1?
 ## Berkeley Mayor: Ben Gould #1, Laurie Capitelli #2?

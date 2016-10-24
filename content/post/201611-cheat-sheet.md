@@ -7,8 +7,6 @@ menu:
     weight: 1
 ---
 
-I have not yet researched the Berkeley school board.
-
 Here are my current recommendations in ballot order:
 
 <!--more-->
@@ -22,7 +20,7 @@ State Senator, D9 | Nancy Skinner?
 State Assembly, D15 | Tony Thurmond
 Superior Court Judge, Office 1 | Scott Jackson
 Berkeley Rent Board | CALI: Christina Murphy, Alejandro Soto-Vigil, Leah Simon-Weisberg, Igor Tregub
-Berkeley School Board | ?
+Berkeley School Directors | Judy Appel, Beatriz Leyva-Cutler?
 AC Transit Director (at-large) | Chris Peeples?
 BART Director, D7 | Lateefah Simon
 51 (school construction bond) | Yes?
