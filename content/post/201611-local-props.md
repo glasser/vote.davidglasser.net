@@ -12,7 +12,8 @@ BART propositions on the November 2016 ballot.
 
 You can also read my thoughts
 on [state-wide propositions]({{< relref "201611-ca-props.md" >}}) and
-on [candidates]({{< relref "201611-candidates.md" >}}).
+on [candidates]({{< relref "201611-candidates.md" >}}), or see
+a [cheat sheet]({{< relref "201611-cheat-sheet.md" >}}) summary.
 
 
 

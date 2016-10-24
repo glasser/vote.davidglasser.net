@@ -14,7 +14,8 @@ ballot.
 You can also read my thoughts
 on [local propositions]({{< relref "201611-local-props.md" >}}) (Berkeley, East
 Bay regional, and BART) and
-on [candidates]({{< relref "201611-candidates.md" >}}).
+on [candidates]({{< relref "201611-candidates.md" >}}), or see
+a [cheat sheet]({{< relref "201611-cheat-sheet.md" >}}) summary.
 
 
 ### Yes on 51?

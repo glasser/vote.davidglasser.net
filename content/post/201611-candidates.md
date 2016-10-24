@@ -14,7 +14,8 @@ AC Transit director.)
 
 You can also read my thoughts
 on [state-wide]({{< relref "201611-ca-props.md" >}})
-and [local]({{< relref "201611-local-props.md" >}}) propositions.
+and [local]({{< relref "201611-local-props.md" >}}) propositions, or see
+a [cheat sheet]({{< relref "201611-cheat-sheet.md" >}}) summary.
 
 
 ## President and Vice President: HILLARY CLINTON AND TIM KAINE
