@@ -7,7 +7,7 @@ menu:
     weight: 1
 ---
 
-I have not yet done full research on Berkeley school board.
+I have not yet researched the Berkeley school board.
 
 Here are my current recommendations in ballot order:
 
