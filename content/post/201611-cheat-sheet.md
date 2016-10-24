@@ -1,5 +1,5 @@
 ---
-date: 2016-10-16T22:29:30-07:00
+date: 2016-11-08T09:00:00-07:00
 title: 'November 2016 Cheat Sheet'
 menu:
   main:
