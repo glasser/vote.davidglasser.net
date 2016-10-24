@@ -211,10 +211,10 @@ on
 [his Facebook ad](https://www.facebook.com/MallettForBART/posts/1174589212608150).
 
 
-## Berkeley City Council, District 3: Ben Bartlett #1?
+## Berkeley City Council, District 3: Deborah Matthews #1?
 ## Berkeley Mayor: Ben Gould #1, Laurie Capitelli #2?
 
-I have to consider these together.
+I have to consider these together, as my thought processes work similarly for .
 
 The biggest problem facing Berkeley these days is the high cost of housing, and
 the displacement that it's causing.  (Full disclosure: my family bought a house
@@ -260,7 +260,16 @@ of property transfer tax to the housing fund, use of the housing fund to enable
 non-profits to buy existing housing to stabilize rents, etc) do sound like they
 might work.  He claims to not be a NIMBY and to not be opposed to all new
 housing construction. But so far has hasn't provided me with a single example of
-a proposed, recent, or in-progress housing project in Berkeley that he likes.
+a proposed, recent, or in-progress housing project in Berkeley that he
+likes. (His wife suggested the senior housing at 3132 MLK as an example of such
+a project; when I ran into Bartlett himself we were literally standing in front
+of it and he couldn't think of a single example. Though to his credit, we were
+both in a hurry and he wasn't in "campaign mode".) His Friends of Adeline group
+continues to push back on the [2902 Adeline](http://2902adeline.com/) project,
+trying to cut a few stories off of it and demanding more parking. More parking,
+for a project that's one block from BART and on a bicycle boulevard! If we don't
+stop overallocating parking, we will never fix our over-reliance on the
+privately owned automobile.
 
 Deborah Matthews wants to build housing --- not surprising given that she is a
 realtor. I like that about her. But her approach to other policy matters
@@ -285,7 +294,17 @@ generally seems opposed to most new construction.  Laurie Capitelli (another
 realtor) supports construction, though he hasn't been as great on other issues
 --- for example, he pushed back on the minimum wage increase for years, caving
 only once BB and CC already made it to the ballot. At least according to his
-website, he cares about transit and bikes.
+website, he cares about transit and bikes.  Arreguin has also put out
+an [anti-Capitelli attack site](http://www.lauriefacts.com/) that mostly makes
+me more sympathetic to Capitelli. For
+example,
+[the page that claims that Capitelli is too conservative](http://www.lauriefacts.com/too-conservative) appears
+to be a list of 17 "council resolutions" that Capitelli didn't support. Most
+(though not all) of them seem to be "Berkeley City Council wasting their time
+making resolutions about things that have nothing to do with Berkeley", like a
+resolution condemning building a wall on the Mexican border. If Berkeley didn't
+have problems, I'd be more sympathetic to the Council spending their time on
+random resolutions.
 
 Ben Gould is a 24-year-old Berkeley native Cal public policy grad student. He's
 the policy wonk I've been looking for! Of course, he has limited government (and
@@ -306,11 +325,15 @@ affordable. I'm also sympathetic to the argument that that's one of those
 oversimplificiations that sounds obvious to non-experts but the truth is
 subtler... and I'm really not excited about literally voting for realtors.
 
-Arreguin seems to be more of an anti-development hard-liner than Bartlett. And
-Capitelli seems to have a better history of accomplishments than Matthews.  So
-I'm tempted to "split my vote": vote for Bartlett for City Council and for
-Capitelli (#2 after Gould) for Mayor.  I imagine that Capitelli would push for
-housing to be built and Bartlett would push back on any excesses.  This feels
-wishy-washy, and maybe I should just make up my mind as to which "side" I'm
-on... but honestly, I don't fully support the economic positions of either
-"side" of the Berkeley political divide.
+If I went and told myself at the age of 18 that I was even considering voting
+for the supposedly marginally more conservative candidates against the
+candidates who talk the good talk about being there for the renters facing
+eviction, I would be shocked at myself.  I really wish there were compelling
+candidates out there whose focus is on the renters who haven't allied themselves
+with the old rich NIMBYs of Berkeley who want nothing to change ever (especially
+not their precious parking spots).  But there aren't.  I'm not excited about
+this, but I'm voting for the people who are willing to build housing in
+Berkeley.  That's going to be Deborah Matthews for City Council, and Ben Gould
+and Laurie Capitelli for Mayor.
+
+At least I can tell young me that I'm supporting the CALI slate for Rent Board?
