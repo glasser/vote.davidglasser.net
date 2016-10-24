@@ -259,7 +259,8 @@ I have heard literally nothing about the other two candidates.
 ## Berkeley City Council, District 3: Deborah Matthews #1?
 ## Berkeley Mayor: Ben Gould #1, Laurie Capitelli #2?
 
-I have to consider these together, as my thought processes work similarly for .
+I have to consider these together, as my thought processes work similarly for
+them.
 
 The biggest problem facing Berkeley these days is the high cost of housing, and
 the displacement that it's causing.  (Full disclosure: my family bought a house
