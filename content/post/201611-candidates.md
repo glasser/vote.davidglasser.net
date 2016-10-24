@@ -194,7 +194,7 @@ two incumbents.
 
 I have not yet researched this race.
 
-## BART Director, D7 | Lateefah Simon
+## BART Director, District 7: Lateefah Simon
 
 Lateefah Simon has a background in social justice, and a host of specific
 improvements in mind for BART, ranging from increased oversight for the BART
