@@ -337,4 +337,5 @@ this, but I'm voting for the people who are willing to build housing in
 Berkeley.  That's going to be Deborah Matthews for City Council, and Ben Gould
 and Laurie Capitelli for Mayor.
 
-At least I can tell young me that I'm supporting the CALI slate for Rent Board?
+At least I can tell young me that I'm supporting the CALI slate for Rent Board
+and Prop AA (owner move-in restrictions)?
