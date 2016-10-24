@@ -363,7 +363,11 @@ to my admittedly amateur eye.
 I am pretty tempted to give Ben Gould my #1 vote for mayor, as a statement that
 I want more policy wonkery in our local government. (And I'd be happy if he
 won.) But that doesn't mean I shouldn't still decide between the two
-front-running candidates for my #2 vote.
+front-running candidates for my #2 vote.  (There are several other candidates
+running too. Guy "Mike" Lee does actually bring a legitimate homeless
+perspective; I met him briefly at the Council candidates debate and I was more
+impressed than I expected. But I don't think he or any of the other candidates I
+haven't mentioned are really prepared to do the job of Mayor.)
 
 Honestly, I'm pretty torn. I'm sympathetic to the simplistic supply-and-demand
 explanation that building housing is the way to make housing more
