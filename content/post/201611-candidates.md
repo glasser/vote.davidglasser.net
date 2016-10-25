@@ -350,7 +350,8 @@ to be a list of 17 "council resolutions" that Capitelli didn't support. Most
 making resolutions about things that have nothing to do with Berkeley", like a
 resolution condemning building a wall on the Mexican border. If Berkeley didn't
 have problems, I'd be more sympathetic to the Council spending their time on
-random resolutions.
+random resolutions.  And well, Robert Reich did endorse Capitelli... gotta count
+for something, right?
 
 Ben Gould is a 24-year-old Berkeley native Cal public policy grad student. He's
 the policy wonk I've been looking for! Of course, he has limited government (and
