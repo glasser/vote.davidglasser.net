@@ -151,7 +151,7 @@ whole to prevent bad behavior. Jackson has the endorsements and attitude that
 make sense for me.
 
 
-## Berkeley Rent Stabilization Board: The CALI slate: Christina Murphy, Alejandro Soto-Vigil, Leah Simon-Weisberg, and Igor Tregub
+## Berkeley Rent Stabilization Board: Christina Murphy, Alejandro Soto-Vigil, and Leah Simon-Weisberg
 
 There are six candidates for four positions on the Rent Stabilization Board; we
 get to vote for 4 of them. The best information I found on the candidates
@@ -182,8 +182,18 @@ endorsing the realtor side for City Council and Mayor.
 But hey, the Rent Stabilization Board doesn't have any thing to do with
 approving new construction, as far as I know. So it doesn't matter how NIMBY the
 rent board is --- here's a place where I feel comfortable letting my
-bleeding-heart sympathies out. I'm planning to vote for the CALI slate, despite
-not supporting their Mayoral and City Council candidates of choice.
+bleeding-heart sympathies out. I'm planning to vote for most of the CALI slate,
+despite not supporting their Mayoral and City Council candidates of choice.
+
+Why not all of the CALI slate? Igor Tregub was one of the two members of the
+Zoning Adjustments Board to vote against
+the [2902 Adeline](http://2902adeline.com/) project at the meeting I attended.
+Even if the Rent Board won't give him a chance to stop new construction, I can't
+trust the judgment of somebody willing to be on record as saying that a new
+project being built a block from BART and across the street from the Bowl
+shouldn't be as large as feasible.  Perhaps the other three I'm voting for also
+agree with him, but they did not have the opportunity to show off their lack of
+connection to reality.
 
 ## Berkeley School Directors: Judy Appel and Beatriz Leyva-Cutler?
 
@@ -296,7 +306,11 @@ literature listed "Save Alta Bates" (the hospital that may need to close by 2030
 due to seismic problems) as one of his top priorities. Yet when I submitted as a
 debate question "How will you save Alta Bates?" his answer consisted entirely of
 describing why it would be awful to lose Alta Bates and contained no ideas about
-solutions.  Al Murray also had no real ideas about how to fix problems.
+solutions.  He is also strongly opposed to building housing, speaking out
+against
+[building high-density housing a block from BART](http://2902adeline.com/) and
+specifically complaining about parking.  Al Murray also had no real ideas about
+how to fix problems.
 
 It really feels to me like Ben Bartlett's heart is in the right place. He too
 strikes me as an intelligent hard worker, and he cares deeply about preventing
@@ -315,7 +329,16 @@ continues to push back on the [2902 Adeline](http://2902adeline.com/) project,
 trying to cut a few stories off of it and demanding more parking. More parking,
 for a project that's one block from BART and on a bicycle boulevard! If we don't
 stop overallocating parking, we will never fix our over-reliance on the
-privately owned automobile.
+privately owned automobile. He himself spoke against it at the October 27 Zoning
+Adjustment Board meeting which I attended. He sat next to me and I enjoyed
+talking with him during the meeting, though confusingly he kept insisting to me
+that he supported all sorts of nice things (raising the height limit across
+Berkeley! building housing in North Berkeley!) that he claims he couldn't
+actually put in his platform because it would politically unwise. A secret ally
+for building housing who can't name a single good project and speaks against
+building housing? Or a charismatic politician who tells everyone what they want
+to hear? He sure is likeable, and I suspect he'll win, but sure felt like the
+latter.
 
 Deborah Matthews wants to build housing --- not surprising given that she is a
 realtor. I like that about her. But her approach to other policy matters
