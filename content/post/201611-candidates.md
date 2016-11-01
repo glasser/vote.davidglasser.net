@@ -266,8 +266,8 @@ on
 
 I have heard literally nothing about the other two candidates.
 
-## Berkeley City Council, District 3: Deborah Matthews #1?
-## Berkeley Mayor: Ben Gould #1, Laurie Capitelli #2?
+## Berkeley City Council, District 3: Deborah Matthews #1, Ben Bartlett #2
+## Berkeley Mayor: Ben Gould #1, Laurie Capitelli #2
 
 I have to consider these together, as my thought processes work similarly for
 them.
@@ -408,7 +408,10 @@ with the old rich NIMBYs of Berkeley who want nothing to change ever (especially
 not their precious parking spots).  But there aren't.  I'm not excited about
 this, but I'm voting for the people who are willing to build housing in
 Berkeley.  That's going to be Deborah Matthews for City Council, and Ben Gould
-and Laurie Capitelli for Mayor.
+and Laurie Capitelli for Mayor.  I'll give Bartlett my second choice vote for
+City Council, as he seems more prepared to do something about his concerns (and
+I agree with him on many non-housing-construction-related issues) than the other
+candidates.
 
 At least I can tell young me that I'm supporting most of the CALI slate for Rent
 Board and Prop AA (owner move-in restrictions)?

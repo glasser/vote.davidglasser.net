@@ -53,5 +53,5 @@ Z1 (allow more affordable housing) | YES
 AA (owner move-ins) | YES
 BB (redundant minimum wage) | NO
 CC (redundant minimum wage) | NO
-Berkeley Mayor | Ben Gould #1, Laurie Capitelli #2?
-Berkeley City Council, D3 | Deborah Matthews #1?
+Berkeley Mayor | Ben Gould #1, Laurie Capitelli #2
+Berkeley City Council, D3 | Deborah Matthews #1, Ben Bartlett #2
