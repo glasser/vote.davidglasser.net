@@ -334,7 +334,7 @@ Adjustment Board meeting which I attended. He sat next to me and I enjoyed
 talking with him during the meeting, though confusingly he kept insisting to me
 that he supported all sorts of nice things (raising the height limit across
 Berkeley! building housing in North Berkeley!) that he claims he couldn't
-actually put in his platform because it would politically unwise. A secret ally
+actually put in his platform because it would be politically unwise. A secret ally
 for building housing who can't name a single good project and speaks against
 building housing? Or a charismatic politician who tells everyone what they want
 to hear? He sure is likeable, and I suspect he'll win, but sure felt like the
