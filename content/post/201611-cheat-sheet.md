@@ -26,14 +26,14 @@ BART Director, D7 | Lateefah Simon
 51 (school construction bond) | Yes?
 52 (hospital funding) | No?
 53 (more propositions) | NO
-54 (legislative transparency) | Yes?
+54 (legislative transparency) | Abstained
 55 (no tax cut for the rich)| YES
 56 (tobacco tax) | YES
 57 (more parole) | YES
 58 (language immersion) | YES
 59 (citizen's united poll) | Yes ☹
 60 (condoms in porn) | NO
-61 (drug pricing) | Unsure, lean no
+61 (drug pricing) | Torn, voted no
 62 (repeal death penalty) | YES
 63 (ammo control) | YES
 64 (legalize marijuana) | YES
@@ -53,5 +53,7 @@ Z1 (allow more affordable housing) | YES
 AA (owner move-ins) | YES
 BB (redundant minimum wage) | NO
 CC (redundant minimum wage) | NO
+C1 (renew ACTransit funding) | YES
+RR (BART bond) | YES
 Berkeley Mayor | Ben Gould #1, Laurie Capitelli #2
 Berkeley City Council, D3 | Deborah Matthews #1, Ben Bartlett #2
