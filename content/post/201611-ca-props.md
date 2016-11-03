@@ -82,7 +82,7 @@ on at the statewide level.  This is bad because:
 - Specifically, it's likely to be used to tie up high-speed rail construction
   (a project which I support).
 
-### Yes on 54?
+### Abstain on 54
 
 This proposition does two separate things:
 
@@ -117,7 +117,7 @@ I have two concerns.
 
 It is also mostly funded by conservative billionaire Charles Munger.
 
-All in all, I am tentatively pro but could be convinced otherwise.
+Frankly, I have been pretty happy with the performance of the state Democratic party in Sacramento over the past few years since they got supermajority and am inclined to trust their No endorsement. But I do respect the LWV and the arguments for it. In the end, this was the one slot on this ballot I abstained on. 
 
 ### YES ON 55
 
@@ -201,7 +201,7 @@ oppressed majority of people who really wish that there was some collective
 action to allow them to use condoms. I have not yet seen this argument made in a
 compelling manner.
 
-### Unsure on 61; lean no.
+### Unsure on 61; voted no.
 
 This proposition intentionally ties the hands of state agencies, forbidding them
 from paying more for drugs than the US Department of Veteran Affairs
@@ -213,7 +213,7 @@ goals --- it might lead to drug companies refusing to sell drugs to California,
 or raising the VA prices (though there are some legal caps on VA prices).
 
 The League of Pissed-Off Voters and Chronicle are both opposed; I tend to agree
-with them when they agree with each other.
+with them when they agree with each other. I'd have trusted it a lot more had it come from a group with more credibility. I eventually decided to vote no.
 
 ### YES ON 62 (not tricky 66!)
 
