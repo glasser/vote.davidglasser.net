@@ -7,7 +7,7 @@ menu:
     weight: 1
 ---
 
-Here are my current recommendations in ballot order:
+Here are my current recommendations in ballot order. See the sidebar for links to my full thoughts on each issue.
 
 <!--more-->
 
