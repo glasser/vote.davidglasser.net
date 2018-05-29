@@ -1,10 +1,6 @@
 ---
 date: 2016-10-16T17:44:18-07:00
 title: 'November 2016: California Propositions'
-menu:
-  main:
-    name: Nov 2016 CA Props
-    weight: 2
 ---
 
 Here are my current thoughts on the statewide propositions on the November 2016

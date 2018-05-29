@@ -3,11 +3,16 @@ date: 2016-11-08T09:00:00-07:00
 title: 'November 2016 Cheat Sheet'
 menu:
   main:
-    name: Nov 2016 Cheat Sheet
-    weight: 1
+    name: Nov 2016
+    weight: 10
 ---
 
-Here are my current recommendations in ballot order. See the sidebar for links to my full thoughts on each issue.
+Here are my current recommendations in ballot order.
+
+For more details, read my full posts on [local propositions]({{< relref
+"201611-local-props.md" >}}) (Berkeley, East Bay regional, and BART), on
+[state-wide propositions]({{< relref "201611-ca-props.md" >}}) and on
+[candidates]({{< relref "201611-candidates.md" >}}).
 
 <!--more-->
 

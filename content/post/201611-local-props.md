@@ -1,10 +1,6 @@
 ---
 date: 2016-10-16T17:44:18-07:00
 title: 'November 2016: Local Propositions'
-menu:
-  main:
-    name: Nov 2016 Local Props
-    weight: 3
 ---
 
 Here are my current thoughts on the Berkeley, Alameda County, AC Transit, and

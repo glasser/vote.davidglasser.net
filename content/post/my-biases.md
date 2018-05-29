@@ -1,6 +1,8 @@
 ---
 date: 2016-10-16T12:32:38-07:00
-menu: main
+menu:
+  main:
+    weight: 1
 title: My Biases
 ---
 
@@ -16,26 +18,26 @@ election, and come to a well-informed position. I am sharing my opinions on this
 site because friends have noticed that I care a lot and often ask for my
 opinions. I don't think my opinions are always the most well-informed or
 correct, but given that I have them, I might as well share them. (I have done
-this for years on private locations like LiveJournal and Facebook; for November
-2016 I'm experimenting with doing it more publicly.) I try to ensure that "have
+this for years on private locations like LiveJournal and Facebook. Starting November
+2016, I'm experimenting with doing it more publicly.) I try to ensure that "have
 strong opinions about my ballot" is not my only contribution to making our
 society a better place, but do not always live up to that standard.
 
 <!--more-->
 
 I'm a thirty-something cis white Jewish man living in Berkeley, California. I'm
-the father of a tiny baby who I intend to send to our local public schools. I
+the father of a toddler who I intend to send to our local public schools. I
 formerly rented in the Mission and SOMA in San Francisco. I work at a VC-funded
 startup in San Francisco; before 2012 I worked at a larger tech company and rode
 the buses down the peninsula. My wife and I own our home. I commute daily via
 BART and rely primarily on walking, BART, biking, and SF Muni to get around. We
 do not own a car though we occasionally borrow one from family or ZipCar and
-(rarely) use Lyft or taxis.
+(rarely) use Lyft and taxis.
 
 I hope for candidates to match to match my personal beliefs more and more
 closely as their district shrinks.  So I often find myself excited about
 presidential candidates who are farther from my beliefs than local candidates
-who I am opposed to.
+who I'd never vote for.
 
 I generally think that government has a role in creating a more equal and fair
 society, and that one powerful mechanism of achieving that goal is via
@@ -49,7 +51,6 @@ I endeavor to support equality and justice for people of all races, religions,
 genders, sexual orientations, classes, etc. I do my best to be a good ally,
 though that is an ongoing process, not a status I can claim.
 
-
 I am a strong supporter of abortion rights, marriage equality, trans rights, and
 gun control.
 
@@ -61,6 +62,16 @@ black neighborhood (though my wife has lived in the neighborhood off and on for
 decades) and that makes me part of the problem of gentrification. I do my best
 to counteract that effect via respect for my neighbors and via the ballot box,
 but acknowledge that this may not be fully possible.
+
+The housing crisis is the one of the biggest challenges facing the Bay Area
+right now. I don't believe I have all the answers to this problem, but I believe
+that a root cause is the lack of housing construction (market-rate and
+affordable/subsidized) over decades, and that any solution needs to include
+building new housing (of all kinds). I sympathize with those who see dense urban
+construction as the harbinger of displacement, but it seems clear that
+preventing development hasn't done a better job of preventing displacement. I
+don't trust developers or NIMBYs, and it's frustrating that it seems like most
+local politicians fall too far to one side or the other.
 
 While I can find plenty to criticize about the Democratic Party (like any
 organization of its size and diversity), I believe on the whole it is the

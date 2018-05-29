@@ -1,10 +1,6 @@
 ---
 date: 2016-10-20T23:26:01-07:00
 title: 'November 2016: Candidates'
-menu:
-  main:
-    name: Nov 2016 Candidates
-    weight: 4
 ---
 
 Here are my current thoughts on candidates on the November 2016 ballot in
