@@ -20,14 +20,14 @@ years, and lots of races where I'm finding it hard to come to a decision.
 
 ## Governor: John Chiang? Delaine Eastin?
 
-This race, which led to my
-[https://twitter.com/glasser/status/990343633588047872](most popular tweet of
-all time), somehow manages to fail to excite me. I moved to San Francisco in the
-Newsom era and think of him mostly as somebody who loved to claim credit for
-popular initiatives that he had actually opposed (say, Healthy SF).  While his
-work on same-sex marriage is laudable, I found it hard to like much else about
-him. I'm sure he'd manage to do some good things as governor, but I'm not going
-to vote for him in the primary.
+This race, which led to my [most popular tweet of all
+time](https://twitter.com/glasser/status/990343633588047872), somehow manages to
+fail to excite me. I moved to San Francisco in the Newsom era and think of him
+mostly as somebody who loved to claim credit for popular initiatives that he had
+actually opposed (say, Healthy SF).  While his work on same-sex marriage is
+laudable, I found it hard to like much else about him. I'm sure he'd manage to
+do some good things as governor, but I'm not going to vote for him in the
+primary.
 
 Villaraigosa appears to be the SoCal version of Newsom. And he's a big charter
 school supporter and skeptical of single-payer. I don't think I can bring myself
