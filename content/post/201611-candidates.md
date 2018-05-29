@@ -12,6 +12,8 @@ on [state-wide]({{< relref "201611-ca-props.md" >}})
 and [local]({{< relref "201611-local-props.md" >}}) propositions, or see
 a [cheat sheet]({{< relref "201611-cheat-sheet.md" >}}) summary.
 
+<!--more-->
+
 
 ## President and Vice President: HILLARY CLINTON AND TIM KAINE
 
@@ -29,8 +31,6 @@ Obama's legacy and use her superior tenacity to make even more progress for
 justice.
 
 But let's talk about the alternatives.
-
-<!--more-->
 
 Donald Trump is the worst candidate for President in my lifetime, and if you
 need me to explain why, then you probably aren't generally interested in my

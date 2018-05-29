@@ -10,6 +10,7 @@ menu:
 Here are my current thoughts on candidates on the November 2016 ballot in
 Berkeley, in ballot order.  (Not all writeups are finished yet.)
 
+<!--more-->
 
 You can also read my thoughts
 on [propositions]({{< relref "201806-props.md" >}}), or see
