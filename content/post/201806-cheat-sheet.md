@@ -13,6 +13,10 @@ For more details, read my full posts on [propositions]({{< relref
 "201806-props.md" >}}) and on [candidates]({{< relref "201806-candidates.md"
 >}}).
 
+On the whole, I've found fewer candidates to be excited about than in past
+years, and lots of races where I'm finding it hard to come to a decision. I'd
+love to hear feedback from friends in the next week before the election!
+
 <!--more-->
 
 what|my vote
