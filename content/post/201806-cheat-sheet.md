@@ -27,7 +27,7 @@ Insurance Commissioner | ?
 State Board of Equalization, D2 | Nobody?
 US Senator | KEVIN DE LEON
 US Representative, D13 | BARBARA LEE
-State Assembly, D15 | Rochelle Pardue-Okimoto???
+State Assembly, D15 | Jovanka Beckles? Buffy Wicks? Rochelle Pardue-Okimoto?
 Superior Court Judge, Office 11 | ?
 State Superintendent of Public Instruction | TONY THURMOND
 County Superintendent of Schools | L. Karen Monroe?

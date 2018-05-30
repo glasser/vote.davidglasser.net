@@ -8,7 +8,7 @@ menu:
 ---
 
 Here are my current thoughts on candidates on the November 2016 ballot in
-Berkeley, in ballot order.  (Not all writeups are finished yet.)
+Berkeley, in ballot order.
 
 <!--more-->
 
@@ -17,7 +17,8 @@ on [propositions]({{< relref "201806-props.md" >}}), or see
 a [cheat sheet]({{< relref "201806-cheat-sheet.md" >}}) summary.
 
 On the whole, I've found fewer candidates to be excited about than in past
-years, and lots of races where I'm finding it hard to come to a decision.
+years, and lots of races where I'm finding it hard to come to a decision. I'd
+love to hear feedback from friends in the next week before the election!
 
 ## Governor: John Chiang? Delaine Eastin?
 
@@ -72,13 +73,15 @@ Haven't heard anything bad about her in this role.
 
 ## Treasurer: ?
 
-Haven't heard anything particularly compelling about any candidate.
+Haven't heard anything particularly compelling about any candidate. Barbara Lee
+endorses Fiona Ma/
 
 
 ## Attorney General: Dave Jones? Xavier Becerra?
 
 Have heard nice things about both of them.  Not really clear on how to
-choose. Jones may be better on opposing the death penalty?
+choose. Jones may be more anti-death penalty? It's likely we'll get a November
+match--up between these two anyway.
 
 ## Insurance Commissioner: ?
 
@@ -89,7 +92,7 @@ Haven't been able to learn much exciting here.
 
 Apparently this board was stripped of most of its power recently due to
 corruption.  And none of the candidates seem particularly impressive.  Might
-just leave this one blank.
+just leave this one blank.  Barbara Lee endorses Malia Cohen?
 
 
 ### US Senator: KEVIN DE LEON
@@ -110,26 +113,57 @@ neo-Nazi.  De Leon seems fine.
 Still great.
 
 
-### State Assembly, District 15: Rochelle Pardue-Okimoto?
+### State Assembly, District 15: Jovanka Beckles? Buffy Wicks? Rochelle Pardue-Okimoto?
 
-This is the big one.  There are a lot of candidates here who seem sorta OK to me, and none that really excite me.
+This is the big one.  There are a lot of candidates here who seem sorta OK to
+me, and none that really excite me.
 
-Buffy Wicks has raised the most money, primarily from out-of-district
-sources. Her claim to fame is being part of Obama's campaign and administration.
-She just moved here last year, and to the best of my knowledge has not lived in
-the Bay Area before.  She is by far the most pro-housing-development of the
-candidates... maybe even a little too much so for me. For example, she's the
-only major candidate to not support repeal of Costa-Hawkins, which would
-allowing municipalities to enact rent control on post-70s buildings as well as
-allow vacancy control (which would significantly improve the negative effects of
-rent control).  Instead, she supports reform that would allow the cutoff to
-change over time.  I'm tempted to support her as a YIMBY, but it's hard for me
-to vote for somebody who moved to the district even more recently than me and
-who seems to have zero connections to or support from any local community
+If it weren't for the issue of housing, I'm sure I'd vote for Jovanka
+Beckles. She's a part of the Richmond Progressive Alliance (like Gayle
+McLaughlin who I'm supporting for Governor). She refuses corporate money and (I
+believe) has by far the largest number of small-money donors.  Most of her
+platform is excellent, and my impression is she got things done in Richmond.
+Her [housing platform](http://www.jovanka.org/stand#housing) is more nuanced
+than I originally thought. Her opposition to SB827 and her skepticism about
+transit-based development is the main thing preventing me from being a
+whole-hearted supporter, though she does support AB 2923 (building units on BART
+land) and has some other good ideas on housing... but not on building enough of
+it. It's tough for me to not vote for somebody with the rest of her platform and
+life experience, but we need to build more housing.
+
+Buffy Wicks has raised the most money, primarily from large donations from out
+of district sources. Her main prior experience is being a big part of Obama's
+campaign and administration.  She just moved here two years ago, though she did
+live in SF and Oakland a bit last decade.  She is by far the most
+pro-housing-development of the candidates... maybe even a little too much so for
+me. For example, she's the only major candidate to not support repeal of
+Costa-Hawkins, which would allowing municipalities to enact rent control on
+post-70s buildings as well as allow vacancy control (which would significantly
+improve the negative effects of rent control).  Instead, she supports reform
+that would allow the cutoff to change over time (and isn't sure about the
+vacancy control aspect).  I'm tempted to support her as a YIMBY, but it's hard
+for me to vote for somebody who moved to the district even more recently than me
+and who seems to have zero connections to or support from any local community
 organizations.  She may be the most skilled of the candidates at getting things
-done in politices, but does she know how to avoid the traps Senator Wiener fell
+done in politics, but does she know how to avoid the traps Senator Wiener fell
 into recently in unveiling SB827 without working with affordable housing
-advocates? I hope to get a chance to talk to her directly before the election.
+advocates? I called her office and they gave me her cell phone number and we had
+a long talk a week before the election. I suspect that of all the candidates,
+she would have the most success getting things done in Sacramento (for better or
+for worse, she's pals with probable future Governor Newson), and I do think her
+housing policies are best. But her minimal connection to the district (and
+frankly, her support from the more corporate side of the Democratic party)
+concerns me.
+
+Rochelle Pardue-Okimoto is a nurse and El Cerrito official. She came in second
+in [East Bay For Everyone's pro-housing
+scorecard](https://eastbayforeveryone.org/election-2018/) behind Wicks (and is
+the candidate most supportive of Wiener's SB827 bill to increase height limits
+near transit hubs).  She is very focused on improving healthcare in California
+and saving Alta Bates Hospital (where she works!).  She's got the endorsement of
+the incumbent and many labor groups. As the most pro-housing candidate with a
+real connection to the district, I'm leaning towards voting for her. But this
+feels like a wishy-washy "centrist" position.
 
 Ben Bartlett is my City Council member. I sure wish I could be a wholehearted
 supporter of the only politician who recognizes me on the street.  And he even
@@ -141,61 +175,99 @@ it](http://www.berkeleyside.com/2016/10/31/new-housing-okd-in-berkeley-as-yimbys
 But it doesn't fill me with confidence that his main accomplishment was
 something he campaigned against.
 
-Rochelle Pardue-Okimoto is a nurse and El Cerrito official. She came in second
-in [East Bay For Everyone's pro-housing
-scorecard](https://eastbayforeveryone.org/election-2018/) behind Wicks (and is
-the candidate most supportive of Wiener's SB827 bill to increase height limits
-near transit hubs).  She is very focused on improving healthcare in California
-and saving Alta Bates Hospital (where she works!).  As the most pro-housing
-candidate with a real connection to the district, I'm leaning towards voting for
-her.
-
-If it weren't for the issue of housing, I'm sure I'd vote for Jovanka
-Beckles. She's a part of the Richmond Progressive Alliance (like Gayle
-McLaughlin who I'm supporting for Governor). She refuses corporate money and (I
-believe) has the largest number of individual donors.  I support her whole
-platform... except for her stance on housing, which while well-intended, doesn't
-seem to include increasing housing supply.  It's tough for me to not vote for
-somebody with the rest of her platform, but I don't think I can right now.
-
 Andy Katz, Dan Kalb, and Judy Appel all seem basically fine on non-housing
-issues but unexciting and not great on housing.
+issues but not great on housing and not super exciting overall.
 
 
 ## Superior Court Judge, Office 11: ?
 
-tba
+This is an odd race. Incumbent judges are rarely challenged. I do like the idea
+of supporting a public defender for judge, so the challenger Karen Katz is
+attractive. Her criticisms of the incumbent (Flanagan) are primarily accusations
+that Flanagan is disrespectful to defendants and the accused, as well as a minor
+campaign finance issue. Flanagan's campaign has mostly been to state that
+incumbent judges are rarely challenged and to strongly imply that it's because
+she is an out lesbian (an issue Katz has not publicly raised, and Katz is
+apparently bi with a gay son).  Flanagan has far more endorsements than Katz. It
+honestly seems like a mess and I don't know who to vote for.
 
 
 ## State Superintendent of Public Instruction: TONY THURMOND
 
-tba
+Thurmond is currently my representative in the Assembly; the big election for
+his seat is happening because he's running for this office.  His main opponent
+is Marshall Tuck, former president of a public charter school organization.
+This is essentially a public-schools-and-teachers vs charter-schools
+election. (Admittedly, Tuck claims to want to outlaw for-profit charter schools,
+though who knows if this would actually be a priority, and it's not under the
+control of this position anyway.) I am pretty firmly in the public education
+camp and am excited to vote for Thurmond.  Maybe once Ida is actually in public
+school my optimistic opinion of public school teachers may lower, but I'll cross
+that bridge when I come to it.
 
 ## Alameda County Superintendent of Schools: L. Karen Monroe?
 
-tba
+Incumbent running unopposed. Can't find anything bad about her.
 
 
 ## Alameda County Board of Education, Area 1: Joaquin Rivera?
 
-tba
+Incumbent running against somebody who failed to impress me [two years ago]({{<
+relref "201611-candidates.md" >}}). Can't find anything bad about him.
 
 ## Alameda County Assessor: Phong La?
 
-tba
+The assessor's office calculates the value of a property (only when it is sold
+or significantly upgraded, thanks to Prop 13) and thus its property tax. The
+race seems to be between an outsider (Phong La, who's somewhat of a community
+activist as well as a real estate attorney) and some insiders (Jim Johnson and
+Kevin Lopez, who work in the Assessor's office).  Honestly I want to see an
+assessor candidate who'll speak out against Prop 13; that doesn't seem to
+describe any of the candidates, but La is at least [endorsed by the anti-Prop 13
+group Evolve CA](https://www.evolve-ca.org/2018-primary-election/).  Good enough
+for me, I guess.
 
-## Alameda County Auditor-Controller/Clerk-Recorder: ?
+## Alameda County Auditor-Controller/Clerk-Recorder: Irella Blackwood?
 
-tba
+The handpicked successor to the incumbent, Melissa Wilk, vs a challenger with
+similar experience in San Francisco, Irella Blackwood.  Maybe I'll vote for
+Blackwood because Sheriff Ahern endorses Wilk.
 
 ## Alameda County District Attorney: PAMELA PRICE
 
-tba
+Made it all the way down here? This is a big one too.
+
+One of the most important movements for criminal justice in the country today is
+electing progressive District Attorneys, like my hometown of Philly recently
+did.  O'Malley might not be the worst DA in the state, but she is apparently
+pretty reluctant to hold cops accountable (and even took a donation from the
+Fremont police union while considering and rejecting the prosecution of cops for
+the admittedly complex killing of a pregant teen last year). Comparing [their
+answers to an ACLU
+survey](https://vote4da.org/candidates/county/alameda/issue-area/all/), Pamela
+Price's platform clearly promises far more in the way of criminal justice
+reform. Perhaps it is easier to promise big changes as a challenger then as an
+incumbent, but O'Malley didn't take the opportunity to clarify the reasoning
+behind most of her stances in this survey.  Price will refuse to push for the
+death penalty; O'Malley is not super pro death penalty but has pursued it in one
+case.
+
+Editorials endorsing O'Malley claim that Price has less overall knowledge and
+management experience than O'Malley. This may or may not be true. But in this
+case, I'm going to vote for the superior platform.
+
 
 ## Alameda County Sheriff-Coroner: N.O. CONFIDENCE
 
-tba
+Sheriff Ahern is the worst elected official currently representing me. He goes
+out of his way to cooperate with ICE, opposed 2016's death penalty repeal
+proposition, signed a letter supporting Sessions' nomination for Attorney
+General... the list goes on. Unfortunately, you can't legally run for Sheriff
+without a background in law enforcement, and a losing campaign against an
+incumbent sheriff would ruin a cop's career.  I will be voting for
+[N. O. Confidence](https://draketalkoakland.com/2018/03/14/my-primary-endorsements-price-kalb-a-surprise-write-in/).
 
 ## Alameda County Treasurer-Tax Collector: Hank Levy?
 
-tba
+Hard to find much about this unopposed appointed incumbent. [He's
+pro-union?](http://www.publicceo.com/2017/04/alameda-county-supervisors-appoint-treasurer-tax-collector-but-some-question-his-integrity/).
