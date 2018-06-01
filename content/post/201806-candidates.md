@@ -18,9 +18,12 @@ a [cheat sheet]({{< relref "201806-cheat-sheet.md" >}}) summary.
 
 On the whole, I've found fewer candidates to be excited about than in past
 years, and lots of races where I'm finding it hard to come to a decision. I'd
-love to hear feedback from friends in the next week before the election!
+love to hear feedback from friends in the next week before the election!  The
+serious candidates in contested races that I'm most wholeheartedly excited about
+are **Pamela Price for DA** and **Tony Thurmond for California Superintendent of
+Public Instruction**.
 
-## Governor: John Chiang? Delaine Eastin?
+## Governor: Delaine Eastin
 
 This race, which led to my [most popular tweet of all
 time](https://twitter.com/glasser/status/990343633588047872), somehow manages to
@@ -40,6 +43,8 @@ John Chiang has alwasy struck me as competent. I hadn't heard of Delaine Eastin
 before a few months ago but her work in education is legit and she has most of
 the lefty endorsements.  They both seem fine.  I only wish I knew which one had
 more of a chance to make it to #2 under Newsom (realistically, it's neither).
+Given that I can only vote for one, why not vote for someone to be the first
+female governor of the state.
 
 
 ## Lieutenant Governor: Gayle McLaughlin
@@ -77,11 +82,14 @@ Haven't heard anything particularly compelling about any candidate. Barbara Lee
 endorses Fiona Ma/
 
 
-## Attorney General: Dave Jones? Xavier Becerra?
+## Attorney General: Dave Jones
 
-Have heard nice things about both of them.  Not really clear on how to
-choose. Jones may be more anti-death penalty? It's likely we'll get a November
-match--up between these two anyway.
+Have heard nice things about both Dave Jones and Xavier Becerra.  While Becerra
+gets a lot of credit for pushing back on Trump, it seems likely Jones would have
+done the same --- rewarding somebody for being appointed doesn't seem like a
+good way to choose. Jones appears to be more strongly anti-death penalty, which
+tips the scales for me. It's likely we'll get a November match--up between these
+two anyway.
 
 ## Insurance Commissioner: ?
 
@@ -113,13 +121,13 @@ neo-Nazi.  De Leon seems fine.
 Still great.
 
 
-### State Assembly, District 15: Jovanka Beckles? Buffy Wicks? Rochelle Pardue-Okimoto?
+### State Assembly, District 15: Jovanka Beckles (but tempted by Buffy Wicks and Rochelle Pardue-Okimoto)
 
 This is the big one.  There are a lot of candidates here who seem sorta OK to
 me, and none that really excite me.
 
-If it weren't for the issue of housing, I'm sure I'd vote for Jovanka
-Beckles. She's a part of the Richmond Progressive Alliance (like Gayle
+If it weren't for the issue of housing, there's little question I'd vote for
+Jovanka Beckles. She's a part of the Richmond Progressive Alliance (like Gayle
 McLaughlin who I'm supporting for Governor). She refuses corporate money and (I
 believe) has by far the largest number of small-money donors.  Most of her
 platform is excellent, and my impression is she got things done in Richmond.
@@ -128,8 +136,7 @@ than I originally thought. Her opposition to SB827 and her skepticism about
 transit-based development is the main thing preventing me from being a
 whole-hearted supporter, though she does support AB 2923 (building units on BART
 land) and has some other good ideas on housing... but not on building enough of
-it. It's tough for me to not vote for somebody with the rest of her platform and
-life experience, but we need to build more housing.
+it.
 
 Buffy Wicks has raised the most money, primarily from large donations from out
 of district sources. Her main prior experience is being a big part of Obama's
@@ -155,6 +162,13 @@ housing policies are best. But her minimal connection to the district (and
 frankly, her support from the more corporate side of the Democratic party)
 concerns me.
 
+My feelings on Wicks are summed up by this direct quote: "I text with Gavin". Is
+having the ear of the man who unfortunately will probably be governor a useful
+thing for a legislator? Yes! Is being excited about a man whose main
+accomplishments (outside of marriage work) consist of giving proud speeches
+about programs he opposed until they passed going to impress me with your
+judgement and specific knowledge of local issues? No!
+
 Rochelle Pardue-Okimoto is a nurse and El Cerrito official. She came in second
 in [East Bay For Everyone's pro-housing
 scorecard](https://eastbayforeveryone.org/election-2018/) behind Wicks (and is
@@ -162,8 +176,8 @@ the candidate most supportive of Wiener's SB827 bill to increase height limits
 near transit hubs).  She is very focused on improving healthcare in California
 and saving Alta Bates Hospital (where she works!).  She's got the endorsement of
 the incumbent and many labor groups. As the most pro-housing candidate with a
-real connection to the district, I'm leaning towards voting for her. But this
-feels like a wishy-washy "centrist" position.
+real connection to the district, I'm attracted to the idea of voting for
+her. But this feels like a wishy-washy "centrist" position.
 
 Ben Bartlett is my City Council member. I sure wish I could be a wholehearted
 supporter of the only politician who recognizes me on the street.  And he even
@@ -178,6 +192,13 @@ something he campaigned against.
 Andy Katz, Dan Kalb, and Judy Appel all seem basically fine on non-housing
 issues but not great on housing and not super exciting overall.
 
+Right now, I'm thinking that Beckles' housing platform is more nuanced than I'd
+originally thought when rejecting her as a NIMBY ally, and I think she deserves
+to be one of the two fall candidates. I'm leaning towards voting for her now,
+though I'm not sure I'll be fully decided before filling out my ballot on
+election day; Wicks and Pardue-Okimoto are still serious choices. And I can even
+imagine voting for one of them now, having them make it to November, and voting
+for somebody else then. We'll see.
 
 ## Superior Court Judge, Office 11: ?
 
@@ -200,22 +221,24 @@ is Marshall Tuck, former president of a public charter school organization.
 This is essentially a public-schools-and-teachers vs charter-schools
 election. (Admittedly, Tuck claims to want to outlaw for-profit charter schools,
 though who knows if this would actually be a priority, and it's not under the
-control of this position anyway.) I am pretty firmly in the public education
-camp and am excited to vote for Thurmond.  Maybe once Ida is actually in public
-school my optimistic opinion of public school teachers may lower, but I'll cross
-that bridge when I come to it.
+control of this position anyway. I have heard positive things about Tuck from
+people whose opinions I respect, but even those folks also really like
+Thurmond.) I am pretty firmly in the public education camp and am excited to
+vote for Thurmond.  Maybe once Ida is actually in public school my optimistic
+opinion of public school teachers may lower, but I'll cross that bridge when I
+come to it.
 
-## Alameda County Superintendent of Schools: L. Karen Monroe?
+## Alameda County Superintendent of Schools: L. Karen Monroe
 
 Incumbent running unopposed. Can't find anything bad about her.
 
 
-## Alameda County Board of Education, Area 1: Joaquin Rivera?
+## Alameda County Board of Education, Area 1: Joaquin Rivera
 
 Incumbent running against somebody who failed to impress me [two years ago]({{<
 relref "201611-candidates.md" >}}). Can't find anything bad about him.
 
-## Alameda County Assessor: Phong La?
+## Alameda County Assessor: Phong La
 
 The assessor's office calculates the value of a property (only when it is sold
 or significantly upgraded, thanks to Prop 13) and thus its property tax. The
