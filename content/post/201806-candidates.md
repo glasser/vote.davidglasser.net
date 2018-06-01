@@ -233,7 +233,7 @@ The handpicked successor to the incumbent, Melissa Wilk, vs a challenger with
 similar experience in San Francisco, Irella Blackwood.  Maybe I'll vote for
 Blackwood because Sheriff Ahern endorses Wilk.
 
-## Alameda County District Attorney: PAMELA PRICE
+## Alameda County District Attorney: PAMELA PRICE!!!
 
 Made it all the way down here? This is a big one too.
 
@@ -255,6 +255,12 @@ case.
 Editorials endorsing O'Malley claim that Price has less overall knowledge and
 management experience than O'Malley. This may or may not be true. But in this
 case, I'm going to vote for the superior platform.
+
+... and even if I wasn't already going to vote for Price, hearing that the
+Oakland police union is [sending anti-Price emails to a carefully-curated
+no-black-people
+list](https://www.eastbayexpress.com/SevenDays/archives/2018/05/30/pamela-price-supporters-allege-oakland-police-union-is-racially-targeting-voters-with-email-blasts)
+would have put me over the edge.
 
 
 ## Alameda County Sheriff-Coroner: N.O. CONFIDENCE

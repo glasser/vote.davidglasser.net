@@ -38,7 +38,7 @@ County Superintendent of Schools | L. Karen Monroe?
 County Board of Education, Area 1 | Joaquin Rivera?
 County Assessor | Phong La?
 Auditor-Controller/Clerk-Recorder | ?
-District Attorney | PAMELA PRICE
+District Attorney | **PAMELA PRICE!!!**
 Sheriff-Coroner | N.O. CONFIDENCE
 Treasurer-Tax Collector | Hank Levy?
 68 (bonds for parks) | Yes
