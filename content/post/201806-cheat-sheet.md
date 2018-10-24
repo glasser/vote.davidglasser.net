@@ -3,8 +3,8 @@ date: 2018-05-28T23:40:13-07:00
 title: 'June 2018 Cheat Sheet'
 menu:
   main:
-    name: June 2018 Cheat Sheet
-    weight: 2
+    name: June 2018
+    weight: 9
 ---
 
 Here are my current recommendations in ballot order.

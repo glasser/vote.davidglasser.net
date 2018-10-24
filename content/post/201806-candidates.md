@@ -1,10 +1,6 @@
 ---
 date: 2018-05-28T23:40:13-07:00
 title: 'June 2018: Candidates'
-menu:
-  main:
-    name: June 2018 Candidates
-    weight: 3
 ---
 
 Here are my current thoughts on candidates on the November 2016 ballot in
@@ -39,7 +35,7 @@ school supporter and skeptical of single-payer. I don't think I can bring myself
 to vote for him even in a game-theory "keep the Republicans off the ballot"
 strategy.
 
-John Chiang has alwasy struck me as competent. I hadn't heard of Delaine Eastin
+John Chiang has always struck me as competent. I hadn't heard of Delaine Eastin
 before a few months ago but her work in education is legit and she has most of
 the lefty endorsements.  They both seem fine.  I only wish I knew which one had
 more of a chance to make it to #2 under Newsom (realistically, it's neither).
@@ -79,7 +75,7 @@ Haven't heard anything bad about her in this role.
 ## Treasurer: ?
 
 Haven't heard anything particularly compelling about any candidate. Barbara Lee
-endorses Fiona Ma/
+endorses Fiona Ma?
 
 
 ## Attorney General: Dave Jones

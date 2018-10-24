@@ -30,9 +30,9 @@ the father of a toddler who I intend to send to our local public schools. I
 formerly rented in the Mission and SOMA in San Francisco. I work at a VC-funded
 startup in San Francisco; before 2012 I worked at a larger tech company and rode
 the buses down the peninsula. My wife and I own our home. I commute daily via
-BART and rely primarily on walking, BART, biking, and SF Muni to get around. We
-do not own a car though we occasionally borrow one from family or ZipCar and
-(rarely) use Lyft and taxis.
+BART and rely primarily on walking, BART, biking, AC Transit, and Muni to get
+around. We do not own a car though we occasionally rent or borrow one from
+family and (rarely) use Lyft and taxis.
 
 I hope for candidates to match to match my personal beliefs more and more
 closely as their district shrinks.  So I often find myself excited about
@@ -42,14 +42,15 @@ who I'd never vote for.
 I generally think that government has a role in creating a more equal and fair
 society, and that one powerful mechanism of achieving that goal is via
 progressive taxation and the creation of social safety nets.  On the whole I
-tend to vote in favor of most taxes and bonds.  I believe that the restrictions
-written into the California constitution by anti-tax forces in Proposition 13
-and its cohort have had a corrosive force on the state, and wish they did not
-force so much of Californian financial decision-making into the ballot box.
+tend to vote in favor of most taxes and bonds, especially renewing existing
+expiring taxes.  I believe that the restrictions written into the California
+constitution by anti-tax forces in Proposition 13 and its cohort have had a
+corrosive force on the state, and wish they did not force so much of Californian
+financial decision-making into the ballot box.
 
 I endeavor to support equality and justice for people of all races, religions,
-genders, sexual orientations, classes, etc. I do my best to be a good ally,
-though that is an ongoing process, not a status I can claim.
+genders and gender identities, sexual orientations, classes, etc. I do my best
+to be a good ally, though that is an ongoing process, not a status I can claim.
 
 I am a strong supporter of abortion rights, marriage equality, trans rights, and
 gun control.
@@ -70,8 +71,26 @@ affordable/subsidized) over decades, and that any solution needs to include
 building new housing (of all kinds). I sympathize with those who see dense urban
 construction as the harbinger of displacement, but it seems clear that
 preventing development hasn't done a better job of preventing displacement. I
-don't trust developers or NIMBYs, and it's frustrating that it seems like most
-local politicians fall too far to one side or the other.
+don't trust neither developers nor NIMBYs, and it's frustrating that it seems like
+most local politicians fall too far to one side or the other.
+
+Specifically, I believe that the market-rate housing crisis and
+affordable/subsidized housing crises are both real and are intertwined, but
+require different solutions.  I believe massive development of market-rate
+housing, especially dense transit-friendly housing, is likely to help the
+market-rate housing crisis, which admittedly is the one that affects my friends
+the most. (That development should still have strong controls preventing direct
+displacement.) But I don't believe market-rate housing development will do much
+to support those who can't afford market-rate housing, and if done carelessly
+will make matters worse for them. Solving that requires investment in
+specifically building affordable housing.  Unfortunately, it feels like most
+local politicians are only interested in solving one of these twin problems.
+
+In general, I find that when [East Bay for
+Everyone](https://eastbayforeveryone.org/) (the East Bay YIMBY group) and the
+[East Bay DSA](https://www.eastbaydsa.org/) agree on a housing-related issue, I
+agree with them. And on issues where they disagree (as is more common), I am
+internally split.
 
 While I can find plenty to criticize about the Democratic Party (like any
 organization of its size and diversity), I believe on the whole it is the
@@ -86,6 +105,9 @@ from parties who do not have the organization, dedication, or representation to
 get even a handful of state legislators elected to be worth considering.  I have
 been fortunate to live in municipalities since 2002 which use instant-runoff
 voting for local elections and hope to see more of it in the future.
+
+On the other hand, anyone who is still a member of the Republican Party in 2018
+has already proven them unworthy of my consideration.
 
 I generally indicate how strongly I feel about my position on an issue by
 WHETHER OR NOT I CAPITALIZE MY OPINION.
