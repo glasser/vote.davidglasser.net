@@ -1,5 +1,5 @@
 ---
-date: 2018-05-28T23:40:13-07:00
+date: 2018-10-25T12:00:01-07:00
 title: 'November 2018: Candidates'
 menu:
   main:
