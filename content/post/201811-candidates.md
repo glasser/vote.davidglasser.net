@@ -23,7 +23,7 @@ ballot.
 ## Governor: Gavin Newsom ☹
 
 Newsom will certainly be better than Cox. See [my comments in the primary]({{<
-relref "201811-cheat-sheet.md" >}}) on why Newsom fails to excite me.
+relref "201806-candidates.md" >}}) on why Newsom fails to excite me.
 
 
 ## Lieutenant Governor: Ed Hernandez?
