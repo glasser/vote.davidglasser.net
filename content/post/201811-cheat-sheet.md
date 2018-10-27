@@ -32,7 +32,7 @@ Judges | Maybe no on Carol Corrigan, yes on everyone else?
 State Superintendent of Public Instruction | TONY THURMOND
 County Assessor | Phong La
 1 (housing bonds) | Yes
-2 (allow mental health funds to be used for housing) | Yes?
+2 (allow mental health funds to be used for housing) | Yes
 3 (non-legislative water bond) | ?
 4 (children's hospital bond) | Yes?
 5 (lower property taxes for old rich people) | **NO!**
