@@ -97,7 +97,7 @@ in the legislature), but on the whole seems fine.
 Still great.
 
 
-### State Assembly, District 15: ??? (very slight lean Jovanka Beckles)
+### State Assembly, District 15: ???
 
 This is the big one.
 
@@ -174,7 +174,18 @@ towards being a key plank of the Democratic party as soon as possible) is a bad
 idea.
 
 I was pretty torn in the primary, and ended up voting for Beckles at the last
-minute. I'm still pretty torn, but leaning towards Beckles.
+minute.
+
+Other than housing, I'd probably vote for Beckles.  But "other than housing" is
+a big caveat.
+
+Right now I'm finding this [Twitter
+thread](https://twitter.com/IDoTheThinking/status/1055354007080722432) to be a
+reasonably compelling argument to vote for Wicks. Unlike most of what I can read
+about this race, Owens (who's Droste's appointment to the Berkeley Housing
+Advisory Commission) takes both candidates seriously, and respects Beckles, and
+would vote for her for other positions. (And he's for Prop 10!) But his analysis
+of the difference between their housing policies is hard to ignore.
 
 ## Judges: Maybe no on Carol Corrigan, yes on everyone else?
 

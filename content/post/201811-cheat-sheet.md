@@ -27,7 +27,7 @@ Insurance Commissioner | Ricardo Lara?
 State Board of Equalization, D2 | Malia Cohen
 US Senator | KEVIN DE LEON
 US Representative, D13 | BARBARA LEE
-State Assembly, D15 | ??? (very slight lean Jovanka Beckles)
+State Assembly, D15 | ???
 Judges | Maybe no on Carol Corrigan, yes on everyone else?
 State Superintendent of Public Instruction | TONY THURMOND
 County Assessor | Phong La
