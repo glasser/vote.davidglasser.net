@@ -266,7 +266,7 @@ CA](https://www.evolve-ca.org/2018-primary-election/).  Good enough for me, I
 guess.
 
 
-## Berkeley Rent Board: María Poblet, James Chang, Paola Laverde, and John Selawsky?
+## Berkeley Rent Board: María Poblet, James Chang, Paola Laverde, John Selawsky, and Soli Alpert
 
 This is a pretty important one, but I haven't had the time to fully research it
 yet. We get to vote for five members.  María Poblet, James Chang, Paola Laverde,
@@ -278,9 +278,14 @@ as balanced).  Hunt was involved in some strange drama with the Library
 governance earlier this year that hasn't impressed.
 
 I am tempted to undervote by voting for the 4 incumbents (all on the slate) and
-leaving off Alpert, who is the legistlative aide for Kate Harrison, the highly
+leaving off Alpert, who is the legislative aide for Kate Harrison, the overly
 NIMBY City Councillor for downtown (which is the district that ought to have the
-*most* development).
+*most* development).  However, I found his [detailed responses to the East Bay
+DSA's
+questions](https://d3n8a8pro7vhmx.cloudfront.net/eastbaydsa/pages/681/attachments/original/1535928641/soli-alpert-ebdsa-2018-questionnaire.pdf)
+to be compelling (including at least a nod to the racism of zoning laws). Plus
+it does feel nice to get to vote for a young lefty Jew. So I'll vote for the
+whole slate.
 
 
 ## Berkeley School Board: Ty Alper, Julie Sinai, Ka'dijah Brown

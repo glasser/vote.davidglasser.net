@@ -43,7 +43,7 @@ County Assessor | Phong La
 10 (local power over rent control) | Yes
 11 (let ambulance companies off the hook for past labor abuses) | No
 12 (high standards for animal confinement) | Yes
-Berkeley Rent Board | María Poblet, James Chang, Paola Laverde, and John Selawsky (undervote)?
+Berkeley Rent Board | María Poblet, James Chang, Paola Laverde, John Selawsky, and Soli Alpert
 Berkeley School Board | Ty Alper, Julie Sinai, Ka'dijah Brown
 AC Transit Director (at-large) | Dollene Jones
 Peralta E (renew a community college parcel tax) | YES
