@@ -26,15 +26,14 @@ Newsom will certainly be better than Cox. See [my comments in the primary]({{<
 relref "201806-candidates.md" >}}) on why Newsom fails to excite me.
 
 
-## Lieutenant Governor: Ed Hernandez?
+## Lieutenant Governor: Ed Hernandez
 
 My preferred candidate didn't win the primary. It's been hard to be motivated to
 spend time researching this relatively unimportant position.
 
-Based on very rudimentary research, a legislator/doctor seems more qualified
-than an ambassador/housing developer.
-
-Thoughts, anyone?
+Based on very rudimentary research, I'm happy to vote for Hernandez, who
+actually has been elected to something before, vs just a rich person who got
+appointed as an ambassador once.
 
 ## Secretary of State: Alex Padilla
 
@@ -58,7 +57,7 @@ hey, still better than her opponent.
 
 Democrat vs Republican.
 
-## Insurance Commissioner: Ricardo Lara?
+## Insurance Commissioner: Ricardo Lara
 
 Apparently Poizner was reasonably respected the last time he held this job as a
 Republican, and he was pretty non-partisan about it.  And maybe he has a better
@@ -69,6 +68,11 @@ pivoted sharply into racist anti-immigrant policies when running for Governer in
 Lara seems to have his heart in the right place, even though his campaigning
 seems to be a lot about policies that the Commissioner doesn't actually have any
 control over.
+
+Maybe I'd consider voting for a formerly-Republican technocrat who understands
+the detail work of insurance over a Democrat who's less of an expert... when the
+ex-GOPer didn't have an opportunistic racist streak in him. I'm happy to vote
+for Lara.
 
 
 ## Member, State Board of Equalization, 2nd District: Malia Cohen
@@ -97,7 +101,7 @@ in the legislature), but on the whole seems fine.
 Still great.
 
 
-### State Assembly, District 15: ???
+### State Assembly, District 15: Jovanka Beckles?
 
 This is the big one.
 
@@ -179,7 +183,7 @@ minute.
 Other than housing, I'd probably vote for Beckles.  But "other than housing" is
 a big caveat.
 
-Right now I'm finding this [Twitter
+I'm finding this [Twitter
 thread](https://twitter.com/IDoTheThinking/status/1055354007080722432) to be a
 reasonably compelling argument to vote for Wicks. Unlike most of what I can read
 about this race, Owens (who's Droste's appointment to the Berkeley Housing
@@ -187,7 +191,26 @@ Advisory Commission) takes both candidates seriously, and respects Beckles, and
 would vote for her for other positions. (And he's for Prop 10!) But his analysis
 of the difference between their housing policies is hard to ignore.
 
-## Judges: Maybe no on Carol Corrigan, yes on everyone else?
+I've been also trying out thought experiments for what's likely to happen if each candidate wins.
+
+If Wicks wins, she instantly sheds her biggest negative (no local government
+experience), and with the backing of the party machine, it's easy to see her
+winning easy re-elections for her next two terms.  Beckles' term in Richmond is
+expiring, and I'm not sure if there'll be any great opportunities for her to try
+for a more regional role any time soon.
+
+If Beckles wins, then unless she instantly becomes the most universally loved
+politician in the Bay Area (in which case, great!), it's much easier to imagine
+a serious challenge from a more centrist Democrat in two years.  And Wicks is
+likely to run for something else in Oakland, or maybe even the same seat in two
+years.
+
+I like Beckles enough that giving her a chance for one term seems like an OK
+idea, even if it'll be one fewer vote (out of 80) for upzoning.  I've gone back
+and forth many times this year on this race, but as of now (the day before the
+election), Beckles has my vote.
+
+## Judges: No on Carol Corrigan, yes on everyone else?
 
 There are 8 yes/no judge confirmation elections on my ballot: Carol A. Corrigan,
 Leondra R. Kruger, James M. Humes, Sandra Margulies, James A. Richman, Marla
@@ -243,16 +266,24 @@ CA](https://www.evolve-ca.org/2018-primary-election/).  Good enough for me, I
 guess.
 
 
-## Berkeley Rent Board: ?
+## Berkeley Rent Board: María Poblet, James Chang, Paola Laverde, and John Selawsky?
 
 This is a pretty important one, but I haven't had the time to fully research it
 yet. We get to vote for five members.  María Poblet, James Chang, Paola Laverde,
 Soli Alpert, and John Selawsky is the [slate chosen by the Berkeley Tenants
 Convention](https://berkeleyrentboard2018.org/). I have not done enough research
-to decide if that's convincing.
+to decide if that's convincing, but I'm not particularly impressed by the other
+candidates, who seem to be decidedly anti-tenant (even if they cast themselves
+as balanced).  Hunt was involved in some strange drama with the Library
+governance earlier this year that hasn't impressed.
+
+I am tempted to undervote by voting for the 4 incumbents (all on the slate) and
+leaving off Alpert, who is the legistlative aide for Kate Harrison, the highly
+NIMBY City Councillor for downtown (which is the district that ought to have the
+*most* development).
 
 
-## Berkeley School Board: Ty Alper, Julie Sinai, Ka'dijah Brown?
+## Berkeley School Board: Ty Alper, Julie Sinai, Ka'dijah Brown
 
 These candidates appear to basically be the establishment slate (one incumbent,
 two who co-endorse with him).
@@ -265,13 +296,13 @@ and didn't respond to Berkeleyside's candidate questionnaire. Hard not to just
 go with the establistment.
 
 
-## AC Transit Director (at-large): Dollene Jones?
+## AC Transit Director (at-large): Dollene Jones
 
 So this is an incumbent (who's been on the board since 2010, and who has had a
 variety of scandals including a domestic violence case), vs a retired bus driver
 who has run and lost 4 times recently.  I can't find many endorsements at all in
-this race --- other than the East Bay Express, who endorsed the challenger
-Jones.
+this race --- other than the East Bay Express and Alameda County Green Party,
+both of whom endorsed the challenger Jones.
 
 When Jones ran for director two years ago, I said that while the idea of voting
 for a queer woman of color who represents the transit system's employees appeals
