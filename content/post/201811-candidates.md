@@ -1,10 +1,6 @@
 ---
 date: 2018-10-25T12:00:01-07:00
 title: 'November 2018: Candidates'
-menu:
-  main:
-    name: Nov 2018 Candidates
-    weight: 3
 ---
 
 Here are my current thoughts on candidates on the November 2018 ballot in

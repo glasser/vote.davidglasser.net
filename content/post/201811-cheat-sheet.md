@@ -3,8 +3,8 @@ date: 2018-10-25T12:00:02-07:00
 title: 'November 2018 Cheat Sheet'
 menu:
   main:
-    name: Nov 2018 Cheat Sheet
-    weight: 2
+    name: November 2018
+    weight: 4
 ---
 
 Here are my current recommendations in ballot order.
