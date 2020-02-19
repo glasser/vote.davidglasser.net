@@ -10,4 +10,4 @@ jobs:
     - run: git submodule update --recursive --init
     - run: bash ./ci-install-deps.sh
     - run: ./hugo -v
-    - run: '[ "$CIRCLE_BRANCH" == master ] && ./s3deploy -source=public/ -region=us-east-1 -bucket=vote.davidglasser.net -public-access -force || true'
+    - run: '[ "$CIRCLE_BRANCH" == master ] && ./s3deploy -source=public/ -region=us-east-1 -bucket=vote.davidglasser.net -public-access || true'
