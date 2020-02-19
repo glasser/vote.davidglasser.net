@@ -1,0 +1,13 @@
+version: 2
+jobs:
+  build:
+    working_directory: ~/glasser/vote.davidglasser.net
+    docker:
+    - image: circleci/buildpack-deps:latest
+    steps:
+    - checkout
+    - run: git submodule sync --recursive
+    - run: git submodule update --recursive --init
+    - run: bash ./ci-install-deps.sh
+    - run: ./hugo -v
+    - run: '[ "$CIRCLE_BRANCH" == master ] && ./s3deploy -source=public/ -region=us-east-1 -bucket=vote.davidglasser.net || true'
