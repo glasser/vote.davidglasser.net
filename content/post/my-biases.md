@@ -29,10 +29,12 @@ I'm a thirty-something cis white Jewish man living in Berkeley, California. I'm
 the father of two kids who I intend to send to our local public schools. I
 formerly rented in the Mission and SOMA in San Francisco. I work at a VC-funded
 startup in San Francisco; before 2012 I worked at a larger tech company and rode
-the buses down the peninsula. My wife and I own our home. I commute daily via
-BART and rely primarily on walking, BART, biking, AC Transit, and Muni to get
-around. We do now own a minivan but do not use it for but our daily work and
-preschool commutes.
+the buses down the peninsula. My wife and I own our home. Pre-covid, I commuted
+daily via BART and relied primarily on walking, BART, biking, AC Transit, and
+Muni to get around. (These days I work from home, don't go to too many places,
+walk and bike, and look forward to returning to public transit.) We do now own a
+minivan but do not use it for any regular work or preschool commutes (when they
+existed).
 
 I hope for candidates to match to match my personal beliefs more and more
 closely as their district shrinks.  So I often find myself excited about
@@ -44,9 +46,9 @@ society, and that one powerful mechanism of achieving that goal is via
 progressive taxation and the creation of social safety nets.  On the whole I
 tend to vote in favor of most taxes and bonds, especially renewing existing
 expiring taxes.  I believe that the restrictions written into the California
-constitution by anti-tax forces in 1978's Proposition 13 and related measures have had a
-corrosive force on the state, and wish they did not force so much of Californian
-financial decision-making into the ballot box.
+constitution by anti-tax forces in 1978's Proposition 13 and related measures
+have had a corrosive force on the state, and wish they did not force so much of
+Californian financial decision-making into the ballot box.
 
 I endeavor to support equality and justice for people of all races, religions,
 genders and gender identities, sexual orientations, classes, etc. I do my best
@@ -64,19 +66,24 @@ decades) and that makes me part of the problem of gentrification. I do my best
 to counteract that effect via respect for my neighbors and via the ballot box,
 but acknowledge that this may not be fully possible.
 
+I believe that a huge amount of what law enforcement agencies do is actively
+harmful to my values and to real safety, and that goverments must stop defunding
+education, health, housing and so many other important priorities, and start
+defunding the police.
+
 The housing crisis is the one of the biggest challenges facing the Bay Area
 right now. I don't believe I have all the answers to this problem, but I believe
-that a root cause is the lack of housing construction (market-rate and
+that one root cause is the lack of housing construction (market-rate and
 affordable/subsidized) over decades, and that any solution needs to include
 building new housing (of all kinds). I sympathize with those who see dense urban
-construction as the harbinger of displacement, but it seems clear that
-preventing development hasn't done a better job of preventing displacement. I
+construction as the harbinger of displacement, but it does not seem that
+preventing development has done an effective job of preventing displacement. I
 trust neither developers nor NIMBYs, and it's frustrating that it seems like
 most local politicians fall too far to one side or the other.
 
 Specifically, I believe that the market-rate housing crisis and
 affordable/subsidized housing crises are both real and are intertwined, but
-require different solutions.  I believe massive development of market-rate
+require different solutions.  I believe focused development of market-rate
 housing, especially dense transit-friendly housing, is likely to help the
 market-rate housing crisis, which admittedly is the one that affects my friends
 the most. (That development should still have strong controls preventing direct
@@ -84,7 +91,9 @@ displacement.) But I don't believe market-rate housing development will do much
 to support those who can't afford market-rate housing, and if done carelessly
 will make matters worse for them. Solving that requires investment in
 specifically building affordable housing.  Unfortunately, it feels like most
-local politicians are only interested in solving one of these twin problems.
+local politicians are only interested in solving one of these twin problems.  At
+this point, I am mostly skeptical of anyone who believes that they have found
+the single truth on how to fix the housing crisis.
 
 In general, I find that when [East Bay for
 Everyone](https://eastbayforeveryone.org/) (the East Bay YIMBY group) and the
