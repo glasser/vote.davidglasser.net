@@ -24,7 +24,7 @@ State Assembly, D15 | Buffy Wicks
 Superior Court Judge, Office 2 | Elena Condes?
 Berkeley School Directors | ?
 Berkeley Rent Board | ?
-AC Transit Director (at-large) | **VICTORIA FIERCE!**
+AC Transit Director (at-large) | Victoria Fierce
 AC Transit Director, Ward 1 | **JOVANKA BECKLES!**
 BART Director, D7 | **LATEEFAH SIMON!**
 East Bay Regional Park District Director, Ward 1 | Norman La Force?
@@ -42,14 +42,14 @@ Berkeley City Council, D3 | ?
 23 (dialysis clinic changes) | ?
 24 (privacy law changes) | No?
 25 (keep law ending cash bail) | Yes?
-Berkeley FF (fire/emergency tax) | ?
-Berkeley GG (uber tax) | ?
-Berkeley HH (utility tax) | ?
-Berkeley II (police accountability) | ?
-Berkeley JJ (mayor and council pay) | ?
-Berkeley KK (update city charter) | ?
+Berkeley FF (fire/emergency tax) | Yes
+Berkeley GG (uber tax) | Yes
+Berkeley HH (utility tax) | Yes
+Berkeley II (police accountability) | Yes
+Berkeley JJ (mayor and council pay) | Yes?
+Berkeley KK (update city charter) | Yes
 Berkeley LL (let us spend our budget) | YES
-Berkeley MM (more rent control) | ?
+Berkeley MM (more rent control) | Yes
 
 Bonus recommendations from neighboring districts:
 

@@ -71,7 +71,7 @@ Needs research. (Candidates are Bahman Ahmadi, Xavier Johnson, Andy Kelley,
 Carole Marasovic, Dan McDunn, Mari Mendonca, Pawel Moldenhawer, Wendy Saenz Hood
 Neufeld, Soulmaz Panahi, Leah Simon-Weisberg, Dominique Walker, Bianca Zahrai.)
 
-## AC Transit Director (at-large): **VICTORIA FIERCE!**
+## AC Transit Director (at-large): Victoria Fierce
 
 writeup tk
 
