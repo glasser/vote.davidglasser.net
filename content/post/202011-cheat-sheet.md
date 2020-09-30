@@ -35,7 +35,7 @@ Berkeley City Council, D3 | ?
 16 (un-ban affirmative action) | Yes
 17 (voting rights for parolees) | **YES!!!**
 18 (17-year-olds voting in primaries) | Yes
-19 (make prop 13 worse) | No?
+19 (reassessments on inheritance) | ?
 20 (more felonies, less parole) | No?
 21 (allow more rent control) | Yes?
 22 (let uber mis-classify employees) | **NO!!!**
