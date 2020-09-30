@@ -34,7 +34,7 @@ Berkeley City Council, D3 | ?
 15 (fix prop 13 for commercial property) | **YES!!!**
 16 (un-ban affirmative action) | Yes
 17 (voting rights for parolees) | **YES!!!**
-18 (17-year-olds voting in primaries) | Yes?
+18 (17-year-olds voting in primaries) | Yes
 19 (make prop 13 worse) | No?
 20 (more felonies, less parole) | No?
 21 (allow more rent control) | Yes?
