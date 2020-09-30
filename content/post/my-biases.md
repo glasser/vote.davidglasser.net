@@ -50,6 +50,12 @@ constitution by anti-tax forces in 1978's Proposition 13 and related measures
 have had a corrosive force on the state, and wish they did not force so much of
 Californian financial decision-making into the ballot box.
 
+In general I believe we are forced to do too much governing via propositions. If
+a proposition is put on the ballot by the legislature or city council via a
+non-contentious vote (ie, the vast majority of non-Republicans voted for it) and
+is only on the ballot because some other proposition forced it to be, my default
+is to vote yes unless I have strong objections.
+
 I endeavor to support equality and justice for people of all races, religions,
 genders and gender identities, sexual orientations, classes, etc. I do my best
 to be a good ally, though that is an ongoing process, not a status I can claim.
