@@ -8,7 +8,10 @@ menu:
 ---
 
 Here are my current recommendations. (I have not yet fully researched this
-election; I don't even think I have the complete proposition list yet.)
+election. As of October 1st, I've researched and written up all the California
+and Berkeley propositions; I haven't written up most candidates yet and I'm not
+even sure if I have a complete list of county-level propositions, let alone
+opinions.)
 
 For more details, read my full posts on [propositions]({{< relref
 "202011-props.md" >}}) and on [candidates]({{< relref "202011-candidates.md"
@@ -30,18 +33,20 @@ BART Director, D7 | **LATEEFAH SIMON!**
 East Bay Regional Park District Director, Ward 1 | Norman La Force?
 Berkeley Mayor | ?
 Berkeley City Council, D3 | ?
-14 (stem cell research bonds) | ?
+14 (stem cell research bonds) | Yes?
 15 (fix prop 13 for commercial property) | **YES!!!**
 16 (un-ban affirmative action) | Yes
 17 (voting rights for parolees) | **YES!!!**
 18 (17-year-olds voting in primaries) | Yes
-19 (reassessments on inheritance) | ?
-20 (more felonies, less parole) | No?
-21 (allow more rent control) | Yes?
+19 (close one prop 13 loophole, open another) | Yes
+20 (more felonies, less parole) | **NO**
+21 (allow more rent control) | Yes
 22 (let uber mis-classify employees) | **NO!!!**
 23 (dialysis clinic changes) | ?
-24 (privacy law changes) | No?
+24 (privacy law changes) | No
 25 (keep law ending cash bail) | Yes?
+Alameda County V (continue unincorporated area utility tax) | Yes?
+Alameda County W (sales tax for housing) | Yes?
 Berkeley FF (fire/emergency tax) | Yes
 Berkeley GG (uber tax) | Yes
 Berkeley HH (utility tax) | Yes
