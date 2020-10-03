@@ -97,8 +97,8 @@ district that contains a huge chunk of the East Bay from West Oakland out to the
 Carquinez Bridge, and also a bunch of SF from the Bayview through eastern SOMA;
 SF has enough population for 2.5 districts so the map gets drawn this way.)
 
-Sharon Kidd is running against her. Her entire campaign is about being
-pro-police. No thanks.
+Sharon Kidd is running against her. Her entire campaign is about being opposed
+to any constraints on BART cops. No thanks.
 
 ## BART Director, D1 (not my district): JAMIE SALCIDO
 
