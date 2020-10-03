@@ -27,12 +27,12 @@ State Assembly, D15 | Buffy Wicks
 Superior Court Judge, Office 2 | Elena Condes?
 Berkeley School Directors | ?
 Berkeley Rent Board | ?
-AC Transit Director (at-large) | Victoria Fierce
+AC Transit Director (at-large) | Victoria Fierce?
 AC Transit Director, Ward 1 | **JOVANKA BECKLES!**
 BART Director, D7 | **LATEEFAH SIMON!**
-East Bay Regional Park District Director, Ward 1 | Norman La Force?
+East Bay Regional Park District Director, Ward 1 | ?
 Berkeley Mayor | ?
-Berkeley City Council, D3 | ?
+Berkeley City Council, D3 | Ben Bartlett #1, Deborah Matthews #2?
 14 (stem cell research bonds) | Yes?
 15 (fix prop 13 for commercial property) | **YES!!!**
 16 (un-ban affirmative action) | Yes
