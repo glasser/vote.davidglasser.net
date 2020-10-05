@@ -35,7 +35,7 @@ Berkeley City Council, D3 | Ben Bartlett #1, Deborah Matthews #2?
 17 (voting rights for parolees) | **YES!!!**
 18 (17-year-olds voting in primaries) | Yes
 19 (close one prop 13 loophole, open another) | Yes
-20 (more felonies, less parole) | **NO**
+20 (more felonies, less parole) | **NO!!!**
 21 (allow more rent control) | Yes
 22 (let uber mis-classify employees) | **NO!!!**
 23 (dialysis clinic changes) | ?
