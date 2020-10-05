@@ -7,11 +7,7 @@ menu:
     weight: 2
 ---
 
-Here are my current recommendations. (I have not yet fully researched this
-election. As of October 1st, I've researched and written up all the California
-and Berkeley propositions; I haven't written up most candidates yet and I'm not
-even sure if I have a complete list of county-level propositions, let alone
-opinions.)
+Here are my current recommendations.
 
 For more details, read my full posts on [propositions]({{< relref
 "202011-props.md" >}}) and on [candidates]({{< relref "202011-candidates.md"
@@ -25,8 +21,8 @@ President and Vice President | JOE BIDEN AND KAMALA HARRIS
 US Representative, D13 | BARBARA LEE
 State Assembly, D15 | Buffy Wicks
 Superior Court Judge, Office 2 | Elena Condes?
-Berkeley School Directors | ?
-Berkeley Rent Board | ?
+Berkeley School Directors | Laura Babbit and Ana Vasudeo?
+Berkeley Rent Board | Xavier Johnson, Andy Kelley, Mari Mendonca, Leah Simon-Weisberg, and Dominique Walker?
 AC Transit Director (at-large) | Victoria Fierce?
 AC Transit Director, Ward 1 | **JOVANKA BECKLES!**
 BART Director, D7 | **LATEEFAH SIMON!**
@@ -47,6 +43,8 @@ Berkeley City Council, D3 | Ben Bartlett #1, Deborah Matthews #2?
 25 (keep law ending cash bail) | Yes?
 Alameda County V (continue unincorporated area utility tax) | Yes?
 Alameda County W (sales tax for housing) | Yes?
+Alameda County X (bonds for fire departments) | Yes?
+Alameda County Y (borrow funds for schools) | Yes?
 Berkeley FF (fire/emergency tax) | Yes
 Berkeley GG (uber tax) | Yes
 Berkeley HH (utility tax) | Yes

@@ -8,8 +8,7 @@ menu:
 ---
 
 Here are my current thoughts on candidates on the November 2020 ballot in
-Berkeley, in ballot order. (I have not yet fully researched the candidates for
-this election.)
+Berkeley, in ballot order.
 
 <!--more-->
 
@@ -62,12 +61,12 @@ more judges with a background in defense, so combining that with the
 endorsements, I'm voting for Condes. But I'm not voting against anyone here!
 
 
-## Berkeley School Directors: (choose 2)?
+## Berkeley School Directors (choose 2): Laura Babbit and Ana Vasudeo?
 
 I've only done a small amount of research so far; currently leaning towards
-Laura Babbitt and Ana Vasudeo.
+Laura Babbitt and Ana Vasudeo based on their overall approach and endorsements.
 
-## Berkeley Rent Board: (choose 5)?
+## Berkeley Rent Board (choose 5): Xavier Johnson, Andy Kelley, Mari Mendonca, Leah Simon-Weisberg, and Dominique Walker?
 
 I've only done a small amount of research so far, but I usually end up voting
 for something close to the tenant slate, which this year is Xavier Johnson, Andy
@@ -77,22 +76,106 @@ how wrong can it be?" category.)
 
 ## AC Transit Director (at-large): Victoria Fierce?
 
-writeup tk
+AC Transit runs the bus systems in Alameda and Contra Costa counties. (There are
+only three major transit systems in America with elected directors, and we I two
+of them on this very ballot: BART and AC Transit! Denver's RTD is the third.)
+This election features an at-large seat that everyone in both counties votes on,
+as well as elections for Ward 1 (where I live) and Ward 2 (which starts a few
+blocks from my house).
+
+I'm a bit torn on the at-large election.
+
+On the one hand, there's the incumbent, who's been an AC Transit director for 23
+years. He is not as far as I can tell actually running a campaign (maybe he has
+a candidate statement in the guide which I haven't received yet, but certainly
+no website or virtual events or anything). What little I can find about him is
+mostly positive, including past year endorsements.
+
+On the other hand, there's [Victoria Fierce](https://fierce.vote/). She's
+somebody I've followed on Twitter for a while and have generally been impressed
+with as an activist. She fits in that socialism-and-building-housing niche that
+I find attractive. She has a [concrete platform](https://fierce.vote/platform/)
+with basic goals like more bush shelters, a daily fare cap, and better
+communication around service changes (something AC Transit really screwed up
+with a recent Covid-infection-caused major service reduction with minimal
+communication).
+
+(Dollene Jones is also on the ballot; she is on the ballot for AC Transit
+director in every election without running a real campaign.)
+
+Realistically speaking I think this is a very long shot for her, running against
+an incumbent in a low profile race in a very large district (all of Alameda and
+Contra Costa counties). Honestly I wish that Chris Peeples respected the fact
+that there's somebody on the ballot running an honest-to-God campaign with
+website, (virtual) events, etc, and put together at least a tiny scrap of a
+campaign website himself. Frankly I suspect if I was able to fully understand
+his record and positions, I'd be impressed and vote for him. Absent that, I'm
+probably going to vote for Fierce, even if I suspect that Peeples may be very
+good at his job.
+
 
 ## AC Transit Director, Ward 1: **JOVANKA BECKLES!**
 
-writeup tk (but go look at my 2018 discussion of Beckles for Assembly, where my
-hesitations were around housing, and this is not a housing-centric position)
+[Ward 1](http://www.actransit.org/wp-content/uploads/Ward1Final.pdf) covers most
+of Berkeley, Albana, El Cerrito, Richmond, and El Sobrante. The incumbent is Joe
+Wallace of Richmond. Unlike Peeples he at least has a [rudimentary campaign
+site](https://joewallaceforactransit.com/), though the endorsements page is
+quite bare. I really don't know anything more about him than what he's written
+there. He is being challenged by Jovanka Beckles and Ben Fong.
+
+Jovanka Beckles is a former Richmond City Councilmember, who came in second in a
+crowded field in my State Assembly race last year. She's a self-identified
+democratic socialist who's running on a platform of supporting the drivers'
+union (in fact, she says they tapped her to run), fare-free transit (which AC
+Transit has actually had for most of the year due to Covid; fares only fund a
+small share of the budget), and a general Black Lives Matter/Green New Deal
+approach to the system.
+
+I wrote about her a lot two years ago in the Assembly [primary]({{< relref
+"201806-candidates.md" >}}) and [general election]({{< relref
+"201811-candidates.md" >}}). Both times, I said things like "If it weren't for
+the issue of housing, there's little question I'd vote for Jovanka
+Beckles". And: (a) this is not a particularly housing-focused role; (b) my views
+on housing have evolved a little bit towards her side in the last two years
+anyway; and (c) I voted for her both times even with that caveat!
+
+So indeed, there's little question I'm voting for Jovanka Beckles this time. I
+think she has the right values for this position, looking out for riders and for
+the drivers who are shouldering the burden of keeping the buses safely running
+in a time of pandemic.
+
+Ben Fong seems fine, if you're looking for more of a Berkeley YIMBY type than a
+Richmond DSA type. That said, even if I liked Fong and Beckles equally, any low
+profile race against an incumbent is a long shot; I'm more optimistic about the
+candidate who got 90 thousand votes two years ago than the one I hadn't heard of
+before this race.
 
 
 ## AC Transit Director, Ward 2 (not my district): **JEAN WALSH!**
 
-writeup tk
+Bonus endorsement!
+
+I live a few blocks from the [Ward 2
+border](http://www.actransit.org/wp-content/uploads/Ward2Final.pdf); this
+district covers Oakland west of about 35th Avenue plus Emeryville, Piedmont, and
+a chunk of southeast Berkeley.
+
+Like in the at-large race, the incumbent (Greg Harper) doesn't seem to have a
+website or any other campaign. For some reason, he isn't even writing that he's
+the incumbent on the ballot, which makes it more believable that his first-time
+challenger has a chance.
+
+That challenger is [Jean Walsh](https://www.walshforactransit.com/), who happens
+to be a friend of mine! We've been on a few bike rides together over the past
+few years, and I'm excited that she's running for this position, though I'm sad
+I don't get to vote for her. She's focused on getting a transbay bus lane and
+(like Fierce) improving communication. I wish I could vote for her!
 
 
 ## BART Director, D7: **LATEEFAH SIMON!**
 
-Lateefah Simon has been an excellent BART supervisor. (District 7 is a strange
+Lateefah Simon has been an excellent BART supervisor. ([District
+7](https://www.bart.gov/sites/default/files/docs/bart_7.pdf) is a strange
 district that contains a huge chunk of the East Bay from West Oakland out to the
 Carquinez Bridge, and also a bunch of SF from the Bayview through eastern SOMA;
 SF has enough population for 2.5 districts so the map gets drawn this way.)
@@ -102,7 +185,24 @@ to any constraints on BART cops. No thanks.
 
 ## BART Director, D1 (not my district): JAMIE SALCIDO
 
-writeup tk
+Bonus endorsement!
+
+[BART District 1](https://www.bart.gov/sites/default/files/docs/bart_1.pdf)
+contains a big chunk of Contra Costa County, including Walnut Creek, Martinez,
+San Ramon, and parts of Lafayette and Concord. Its incumbent, Republican Debora
+Allen, is my least favorite elected official in the Bay Area. Any time I've read
+about any disagreement among the BART board, Debora Allen is there spouting
+something racist and/or classist. As far as I can tell, her belief is that BART
+should exist solely to transport rich folks between her suburbs and downtown SF
+during rush hour, and anybody else using BART is a problem. She's never seen a
+BART cop action she doesn't like (even speaking out claiming it was "humiliating
+to our police force" when BART apologized for violently arresting a black
+passenger for eating a sandwich on the platform).
+
+[Jamie Salcido](https://jamieforbart.com/) appears to be a competent person
+running a real campaign for this seat. If you live in the district, please vote
+for Salcido to get Republican Debora Allen as far away from elected office as
+possible.
 
 
 ## East Bay Regional Park District Director, Ward 1: ?
@@ -178,4 +278,41 @@ I may abstain.
 
 ## Berkeley City Council, D3: Ben Bartlett #1, Deborah Matthews #2?
 
-writeup tk
+The two major candidates were also the two major candidates [four years ago]({{<
+relref "201611-candidates.md" >}}). I wasn't ultra impressed by either of them
+four years ago (I did vote for Matthews), and that hasn't changed.
+
+I'm still underwhelmed by the idea of voting for Matthews, a literal realtor,
+for a housing-centric position (especially as my confidence in my YIMBY-ish
+tendencies has waned).
+
+I still feel like Bartlett mostly just says what people want to hear. He keeps
+telling me he's made a deal to get something to happen to the abandoned houses
+across the street any day now. It's hard to forget the story I mentioned 4 years
+ago about him whispering in my ear that he actually supported the project he was
+speaking against that night (though hey, no lie, he did end up pushing to get
+the project through once elected, though the project seems to have fallen
+through after that anyway). As soon as he was elected to his first office he
+immediately began running for Assembly (and came in 8th in the primary). He
+tried to get out of a red light ticket by texting the chief of police. He's got
+a weird blockchain obsession, though I don't think he's actually figured out a
+way to try to get the city to use it.
+
+That said, I do usually agree with his actual City Council votes. Recently, I'm
+happy that he's a cosponsor of Rigel Robinson's proposal to break all traffic
+enforcement out of the Police Department into a new Department of
+Transportation. While many other countries work this way, it's virtually unknown
+in the US, and is the sort of bold move Berkeley should be doing. (I emailed
+Matthews and she is vaguely positive on this policy but it doesn't seem like
+it's a priority, though she has other ideas about policing that are
+interesting.)
+
+I am very slightly leaning towards Bartlett at this point, but not particularly
+excited about either major candidate. That said, I'm not going to abstain
+because I definitely want to make sure that there's no chance that the third
+candidate, Orlando Martinez, gets elected. He's part of the usual gang of
+anti-taxers who write the opposition statement on every otherwise
+non-controversial revenue-raising Berkeley proposition. While I doubt he has any
+chance of winning, expressing my disapproval of his brand of politics is
+important, so I will definitely be voting for Bartlett and Matthews in some
+order in this ranked-choice election.
