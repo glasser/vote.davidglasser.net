@@ -24,13 +24,18 @@ malevolence, spite, and bigotry. I sure didn't vote for either of these
 candidates in March, but I'm sure voting for them now.
 
 
-## US Representative, D13: BARBARA LEE
+## US Representative, District 13: BARBARA LEE
 
 Still great. Though y'know, she could join "the Squad" on a few issues. But
 still great.
 
 
-## State Assembly, D15: Buffy Wicks
+## State Senate, District 9: NANCY SKINNER
+
+She's a good Senator, and I don't vote for Libertarians.
+
+
+## State Assembly, District 15: Buffy Wicks
 
 While I voted for Jovanka Beckles in both 2018 elections, I never bought into
 the caricature of Buffy Wicks put forward by Beckles' supporters. While I would
@@ -61,11 +66,6 @@ more judges with a background in defense, so combining that with the
 endorsements, I'm voting for Condes. But I'm not voting against anyone here!
 
 
-## Berkeley School Directors (choose 2): Laura Babbit and Ana Vasudeo?
-
-I've only done a small amount of research so far; currently leaning towards
-Laura Babbitt and Ana Vasudeo based on their overall approach and endorsements.
-
 ## Berkeley Rent Board (choose 5): Xavier Johnson, Andy Kelley, Mari Mendonca, Leah Simon-Weisberg, and Dominique Walker?
 
 I've only done a small amount of research so far, but I usually end up voting
@@ -73,6 +73,11 @@ for something close to the tenant slate, which this year is Xavier Johnson, Andy
 Kelley, Mari Mendonca, Leah Simon-Weisberg, and Dominique Walker. (All but
 Mendonca fall into that "if the East Bay DSA and East Bay For Everyone agree,
 how wrong can it be?" category.)
+
+## Berkeley School Directors (choose 2): Laura Babbit and Ana Vasudeo?
+
+I've only done a small amount of research so far; currently leaning towards
+Laura Babbitt and Ana Vasudeo based on their overall approach and endorsements.
 
 ## AC Transit Director (at-large): Victoria Fierce?
 

@@ -19,16 +19,15 @@ what|my vote
 --:|:-----
 President and Vice President | JOE BIDEN AND KAMALA HARRIS
 US Representative, D13 | BARBARA LEE
+State Senate, D9 | NANCY SKINNER
 State Assembly, D15 | Buffy Wicks
 Superior Court Judge, Office 2 | Elena Condes?
-Berkeley School Directors | Laura Babbit and Ana Vasudeo?
 Berkeley Rent Board | Xavier Johnson, Andy Kelley, Mari Mendonca, Leah Simon-Weisberg, and Dominique Walker?
+Berkeley School Directors | Laura Babbit and Ana Vasudeo?
 AC Transit Director (at-large) | Victoria Fierce?
 AC Transit Director, Ward 1 | **JOVANKA BECKLES!**
 BART Director, D7 | **LATEEFAH SIMON!**
 East Bay Regional Park District Director, Ward 1 | ?
-Berkeley Mayor | ?
-Berkeley City Council, D3 | Ben Bartlett #1, Deborah Matthews #2?
 14 (stem cell research bonds) | Yes?
 15 (fix prop 13 for commercial property) | **YES!!!**
 16 (un-ban affirmative action) | Yes
@@ -41,10 +40,8 @@ Berkeley City Council, D3 | Ben Bartlett #1, Deborah Matthews #2?
 23 (dialysis clinic changes) | ?
 24 (privacy law changes) | No
 25 (keep law ending cash bail) | Yes?
-Alameda County V (continue unincorporated area utility tax) | Yes?
-Alameda County W (sales tax for housing) | Yes?
-Alameda County X (bonds for fire departments) | Yes?
-Alameda County Y (borrow funds for schools) | Yes?
+Alameda County V (continue unincorporated area utility tax) | Yes
+Alameda County W (sales tax for housing) | Yes
 Berkeley FF (fire/emergency tax) | Yes
 Berkeley GG (uber tax) | Yes
 Berkeley HH (utility tax) | Yes
@@ -53,6 +50,8 @@ Berkeley JJ (mayor and council pay) | Yes?
 Berkeley KK (update city charter) | Yes
 Berkeley LL (let us spend our budget) | YES
 Berkeley MM (more rent control) | Yes
+Berkeley Mayor | ?
+Berkeley City Council, D3 | Ben Bartlett #1, Deborah Matthews #2?
 
 Bonus recommendations from neighboring districts:
 
