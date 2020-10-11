@@ -28,7 +28,7 @@ AC Transit Director (at-large) | Victoria Fierce?
 AC Transit Director, Ward 1 | **JOVANKA BECKLES!**
 BART Director, D7 | **LATEEFAH SIMON!**
 East Bay Regional Park District Director, Ward 1 | ?
-14 (stem cell research bonds) | Yes?
+14 (stem cell research bonds) | No?
 15 (fix prop 13 for commercial property) | **YES!!!**
 16 (un-ban affirmative action) | Yes
 17 (voting rights for parolees) | **YES!!!**
@@ -37,7 +37,7 @@ East Bay Regional Park District Director, Ward 1 | ?
 20 (more felonies, less parole) | **NO!!!**
 21 (allow more rent control) | Yes
 22 (let uber mis-classify employees) | **NO!!!**
-23 (dialysis clinic changes) | ?
+23 (dialysis clinic changes) | No?
 24 (privacy law changes) | No
 25 (keep law ending cash bail) | Yes?
 Alameda County V (continue unincorporated area utility tax) | Yes
