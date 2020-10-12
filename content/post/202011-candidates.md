@@ -54,7 +54,7 @@ her campaign site and hope this is not the last time I hear from her, but I'll
 probably vote for the actual candidate in this election.
 
 
-## Superior Court Judge, Office 2: Elena Condes?
+## Superior Court Judge, Office 2: Elena Condes
 
 I haven't done further research into this office since the primary.
 
@@ -77,24 +77,41 @@ how wrong can it be?" category.)
 ## Berkeley School Directors (choose 2): Laura Babbit and Ana Vasudeo?
 
 I've only done a small amount of research so far; currently leaning towards
-Laura Babbitt and Ana Vasudeo based on their overall approach and endorsements.
+Laura Babbitt and Ana Vasudeo based on their overall approach and endorsements
+(basically everyone seems to endorse them).
 
-## AC Transit Director (at-large): Victoria Fierce?
+## AC Transit Director (at-large): Victoria Fierce
 
-AC Transit runs the bus systems in Alameda and Contra Costa counties. (There are
-only three major transit systems in America with elected directors, and we I two
-of them on this very ballot: BART and AC Transit! Denver's RTD is the third.)
-This election features an at-large seat that everyone in both counties votes on,
-as well as elections for Ward 1 (where I live) and Ward 2 (which starts a few
-blocks from my house).
+AC Transit runs the bus systems in western Alameda and Contra Costa
+counties. (There are only three major transit systems in America with elected
+directors, and we I two of them on this very ballot: BART and AC Transit!
+Denver's RTD is the third.)  This election features an at-large seat that
+everyone in the district votes on, as well as elections for Ward 1 (where I
+live) and Ward 2 (which starts a few blocks from my house).
 
-I'm a bit torn on the at-large election.
+I learned the most about the at-large election from the [League of Women Voters
+candidate forum
+video](https://www.youtube.com/watch?v=ZFq_h76oo4c). Additionally, [LWV Voter's
+Edge on the
+race](https://votersedge.org/ca/en/election/2020-11-03/alameda-county/director-alameda-contra-costa-transit-district-at-large)
+has details on the candidates, and is effectively the closest thing the
+incumbent has to a campaign website.
 
-On the one hand, there's the incumbent, who's been an AC Transit director for 23
-years. He is not as far as I can tell actually running a campaign (maybe he has
-a candidate statement in the guide which I haven't received yet, but certainly
-no website or virtual events or anything). What little I can find about him is
-mostly positive, including past year endorsements.
+I'm a bit torn.
+
+On the one hand, there's Chris Peeples, the incumbent. He's been an AC Transit
+director for 23 years. His campaign seems limited to a brief statement in the
+voter's guide, a [longer profile on Voter's
+Edge](https://votersedge.org/ca/en/election/2020-11-03/alameda-county/director-alameda-contra-costa-transit-district-at-large/h.e.-christian-%22chris%22-peeples)
+(dig into "Political Beliefs" especially), and the LWV forum; he does not have a
+campaign website or any virtual campaign events. What little I can find about
+him is mostly positive, including past year endorsements. My take from watching
+the LWV forum is that he's a smart hard-working elected official who understands
+the current state of the system in detail, and is dedicated to a "more of the
+same but better" approach. He is not optimistic about (or particularly
+interested in) better cross-agency collaboration or other major changes like BRT
+(he thinks the main lesson of the recent BRT launch is that it took too long and
+AC Transit isn't good at doing things like that so it shouldn't try again).
 
 On the other hand, there's [Victoria Fierce](https://fierce.vote/). She's
 somebody I've followed on Twitter for a while and have generally been impressed
@@ -103,20 +120,19 @@ I find attractive. She has a [concrete platform](https://fierce.vote/platform/)
 with basic goals like more bush shelters, a daily fare cap, and better
 communication around service changes (something AC Transit really screwed up
 with a recent Covid-infection-caused major service reduction with minimal
-communication).
+communication). She's all for better regional collaboration, though perhaps
+that's a bit quixotic of a goal.
 
-(Dollene Jones is also on the ballot; she is on the ballot for AC Transit
-director in every election without running a real campaign.)
+Dollene Jones, a former driver who runs for director in every election, is also
+running for this seat. I like her and have voted for in the past but I'm not
+seriously considering her in this particular race.
 
-Realistically speaking I think this is a very long shot for her, running against
-an incumbent in a low profile race in a very large district (all of Alameda and
-Contra Costa counties). Honestly I wish that Chris Peeples respected the fact
-that there's somebody on the ballot running an honest-to-God campaign with
-website, (virtual) events, etc, and put together at least a tiny scrap of a
-campaign website himself. Frankly I suspect if I was able to fully understand
-his record and positions, I'd be impressed and vote for him. Absent that, I'm
-probably going to vote for Fierce, even if I suspect that Peeples may be very
-good at his job.
+Realistically speaking I think this is a very long shot for Fierce, running
+against an incumbent in a low profile race in a very large district (the entire
+East Bay west of the hills, rather than just one of the five wards). I enjoy the
+optimistic approach to AC Transit that her campaign takes, even if I suspect
+that much of her platform is easier said than done. I am voting for her, but
+when Peeples inevitably wins I won't be too sad.
 
 
 ## AC Transit Director, Ward 1: **JOVANKA BECKLES!**
@@ -254,7 +270,10 @@ who don't like La Force characterize him as being opposed to people using parks.
 I am pretty torn at this point. Based on endorsements and overall character, I
 lean towards La Force, but his opinions about specific parks that I know are
 opposed to mine. Leaning towards voting for Echols or abstaining. Would love
-advice from anyone who knows more about either of these candidates!
+advice from anyone who knows more about either of these candidates! (I'm
+actually in the middle of an on-and-off text conversation with La Force's
+daughter that started from a campaign text which has been somewhat informative
+here.)
 
 
 ## Berkeley Mayor: ?

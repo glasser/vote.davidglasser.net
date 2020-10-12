@@ -21,10 +21,10 @@ President and Vice President | JOE BIDEN AND KAMALA HARRIS
 US Representative, D13 | BARBARA LEE
 State Senate, D9 | NANCY SKINNER
 State Assembly, D15 | Buffy Wicks
-Superior Court Judge, Office 2 | Elena Condes?
+Superior Court Judge, Office 2 | Elena Condes
 Berkeley Rent Board | Xavier Johnson, Andy Kelley, Mari Mendonca, Leah Simon-Weisberg, and Dominique Walker?
 Berkeley School Directors | Laura Babbit and Ana Vasudeo?
-AC Transit Director (at-large) | Victoria Fierce?
+AC Transit Director (at-large) | Victoria Fierce
 AC Transit Director, Ward 1 | **JOVANKA BECKLES!**
 BART Director, D7 | **LATEEFAH SIMON!**
 East Bay Regional Park District Director, Ward 1 | ?
