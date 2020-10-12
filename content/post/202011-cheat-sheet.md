@@ -50,7 +50,7 @@ Berkeley JJ (mayor and council pay) | Yes?
 Berkeley KK (update city charter) | Yes
 Berkeley LL (let us spend our budget) | YES
 Berkeley MM (more rent control) | Yes
-Berkeley Mayor | ?
+Berkeley Mayor | Jesse Arreguin?
 Berkeley City Council, D3 | Ben Bartlett #1, Deborah Matthews #2?
 
 Bonus recommendations from neighboring districts:

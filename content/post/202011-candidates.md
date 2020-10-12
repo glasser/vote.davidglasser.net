@@ -276,7 +276,7 @@ daughter that started from a campaign text which has been somewhat informative
 here.)
 
 
-## Berkeley Mayor: ?
+## Berkeley Mayor: Jesse Arreguin?
 
 I have not been super impressed by Jesse Arreguin's tenure as mayor. He hasn't
 been awful, but he hasn't been that great too. On the basis of issues and
@@ -288,19 +288,30 @@ when he knocked on our door and we talked for a bit.
 Hsiung is best known as the founder of the vegan activist group [Direct Action
 Everywhere](https://www.directactioneverywhere.com/), something he does not
 highlight as part of his campaign. I don't have strong opinions in either
-direction about this work itself. But I am definitely concerned by accusations
-that [DxE is an abusive cult](https://dismantledxe.wordpress.com/), and about
-[sketchy behavior toward a 16 year old when he was
-27](https://www.youtube.com/watch?v=q3zUZzBWMS0) (and Hsiung [does not deny
-sending her these
-emails](https://www.directactioneverywhere.com/theliberationist/2020-5-8-saul-elbein-business-insider-and-the-corruption-of-modern-journalism)). Maybe
-this is a conspiracy by the meat industry to make him look bad, but it's
-concerning enough that I don't think I'm comfortable voting for him despite
-liking his platform.
+direction about positions or activism of this group. But I am definitely
+concerned by accusations that [DxE is an abusive
+cult](https://dismantledxe.wordpress.com/), and about [sketchy behavior toward a
+16 year old when he was 27](https://www.youtube.com/watch?v=q3zUZzBWMS0) (and
+Hsiung [does not deny sending her these
+emails](https://www.directactioneverywhere.com/theliberationist/2020-5-8-saul-elbein-business-insider-and-the-corruption-of-modern-journalism)). Not
+to mention that he literally wrote a [blog post five years ago urging his
+supporters to move to
+Berkeley](https://www.directactioneverywhere.com/theliberationist/2015-8-11-should-i-move-for-the-animals-what-occupy-wall-street-can-teach-animal-advocates)
+to take over local government to pass local animal rights legislation. (Frankly
+if animal rights was one bullet among many in his website, I'd be less concerned
+about that; the fact that he pretends that animal rights isn't part of his
+political goals for Berkeley when he wrote something like that just five years
+ago feels disingenuous and untrustworthy.) Maybe this is a conspiracy by the
+meat industry to make him look bad, but it's concerning enough that I don't
+think I'm comfortable voting for him despite liking his platform.
 
-I may abstain.
+Aidan Hill looks like a fine person but does not seem prepared for this role.
 
-## Berkeley City Council, D3: Ben Bartlett #1, Deborah Matthews #2?
+I will probably vote for Arreguin and hope for more impressive candidates in
+four years.
+
+
+## Berkeley City Council, District 3: Ben Bartlett #1, Deborah Matthews #2?
 
 The two major candidates were also the two major candidates [four years ago]({{<
 relref "201611-candidates.md" >}}). I wasn't ultra impressed by either of them
