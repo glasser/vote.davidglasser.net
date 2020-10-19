@@ -285,7 +285,7 @@ rural parks but not for urban parks (like, ones within sight of I-80)!  I am
 voting for Echols.
 
 
-## Berkeley Mayor: Jesse Arreguin
+## Berkeley Mayor: Jesse Arreguin #1, Aidan Hill #2
 
 I have not been super impressed by Jesse Arreguin's tenure as mayor. He hasn't
 been awful, but he hasn't been that great too. On the basis of issues and
@@ -314,7 +314,9 @@ ago feels disingenuous and untrustworthy.) Maybe this is a conspiracy by the
 meat industry to make him look bad, but it's concerning enough that I don't
 think I'm comfortable voting for him despite liking his platform.
 
-Aidan Hill looks like a fine person but does not seem prepared for this role.
+Aidan Hill looks like a fine person but does not seem prepared for this
+role. However, I'm more comfortable with Hill than Hsiung so will vote for them
+as #2.
 
 I will probably vote for Arreguin and hope for more impressive candidates in
 four years.
