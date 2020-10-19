@@ -66,19 +66,18 @@ more judges with a background in defense, so combining that with the
 endorsements, I'm voting for Condes. But I'm not voting against anyone here!
 
 
-## Berkeley Rent Board (choose 5): Xavier Johnson, Andy Kelley, Mari Mendonca, Leah Simon-Weisberg, and Dominique Walker?
+## Berkeley Rent Board (choose 5): Xavier Johnson, Andy Kelley, Mari Mendonca, Leah Simon-Weisberg, and Dominique Walker
 
-I've only done a small amount of research so far, but I usually end up voting
-for something close to the tenant slate, which this year is Xavier Johnson, Andy
-Kelley, Mari Mendonca, Leah Simon-Weisberg, and Dominique Walker. (All but
-Mendonca fall into that "if the East Bay DSA and East Bay For Everyone agree,
-how wrong can it be?" category.)
+I generally vote for the tenant slate or something close to it, which this year
+is Xavier Johnson, Andy Kelley, Mari Mendonca, Leah Simon-Weisberg, and
+Dominique Walker. (All but Mendonca fall into that "if the East Bay DSA and East
+Bay For Everyone agree, how wrong can it be?" category.)
 
-## Berkeley School Directors (choose 2): Laura Babbit and Ana Vasudeo?
+## Berkeley School Directors (choose 2): Laura Babitt and Ana Vasudeo
 
-I've only done a small amount of research so far; currently leaning towards
-Laura Babbitt and Ana Vasudeo based on their overall approach and endorsements
-(basically everyone seems to endorse them).
+I did not do a huge amount of in-depth research, but my initial reaction from
+skimming campaign sites was to support Laura Babitt and Ana Vasudeo, and they
+seem to be by far the most endorsed candidates.
 
 ## AC Transit Director (at-large): Victoria Fierce
 
@@ -121,7 +120,9 @@ with basic goals like more bush shelters, a daily fare cap, and better
 communication around service changes (something AC Transit really screwed up
 with a recent Covid-infection-caused major service reduction with minimal
 communication). She's all for better regional collaboration, though perhaps
-that's a bit quixotic of a goal.
+that's a bit quixotic of a goal (for anyone, but particularly for her as she
+seems to make plenty of enemies, esp given that her job is literally suing
+suburbs to get them to build more housing).
 
 Dollene Jones, a former driver who runs for director in every election, is also
 running for this seat. I like her and have voted for in the past but I'm not
@@ -226,7 +227,7 @@ for Salcido to get Republican Debora Allen as far away from elected office as
 possible.
 
 
-## East Bay Regional Park District Director, Ward 1: ?
+## East Bay Regional Park District Director, Ward 1: Elizabeth Echols
 
 Elizabeth Echols was appointed to this seat in January when the previous
 director retired due to illness. So she is only technically running for
@@ -267,21 +268,29 @@ wildly popular off-leash dog park, and I do think there's a place for off-leash
 dog parks even though I'd prefer that not all parks work that way.  The people
 who don't like La Force characterize him as being opposed to people using parks.
 
-I am pretty torn at this point. Based on endorsements and overall character, I
-lean towards La Force, but his opinions about specific parks that I know are
-opposed to mine. Leaning towards voting for Echols or abstaining. Would love
-advice from anyone who knows more about either of these candidates! (I'm
-actually in the middle of an on-and-off text conversation with La Force's
-daughter that started from a campaign text which has been somewhat informative
-here.)
+These
+[Berkeleyside](https://www.berkeleyside.com/2020/10/18/opinion-norman-laforce-is-wrong-for-our-east-bay-parks-election-2020)
+[op-eds](https://www.berkeleyside.com/2020/10/18/opinion-elizabeth-echols-east-bay-regional-park-district-board-election-2020)
+make similar points.
+
+Certainly everything I know about La Force is from sources with strong
+opinions. And it's disappointing that there's no clear strong "pro Echols"
+argument out there, just pro and anti La Force.
+
+There is a legitimate tension between prioritizing conservation vs access in
+parks, and I'm certainly sympathetic to the conservation side. But it like La
+Force so extremely in favor of protecting wildlife in urban parks to the
+detriment of any ability for people to use the parks. That might make sense for
+rural parks but not for urban parks (like, ones within sight of I-80)!  I am
+voting for Echols.
 
 
-## Berkeley Mayor: Jesse Arreguin?
+## Berkeley Mayor: Jesse Arreguin
 
 I have not been super impressed by Jesse Arreguin's tenure as mayor. He hasn't
 been awful, but he hasn't been that great too. On the basis of issues and
-policies alone, I'm pretty impressed by the one challenger who seems like he
-might stand even a small chance of winning, [Wayne
+policies alone, I'm pretty impressed by the *platform* of the one challenger who
+seems like he might stand even a small chance of winning, [Wayne
 Hsiung](https://www.wayneformayor.com/). I found Hsiung to be pretty compelling
 when he knocked on our door and we talked for a bit.
 
@@ -311,7 +320,7 @@ I will probably vote for Arreguin and hope for more impressive candidates in
 four years.
 
 
-## Berkeley City Council, District 3: Ben Bartlett #1, Deborah Matthews #2?
+## Berkeley City Council, District 3: Ben Bartlett #1, Deborah Matthews #2
 
 The two major candidates were also the two major candidates [four years ago]({{<
 relref "201611-candidates.md" >}}). I wasn't ultra impressed by either of them
@@ -349,5 +358,9 @@ candidate, Orlando Martinez, gets elected. He's part of the usual gang of
 anti-taxers who write the opposition statement on every otherwise
 non-controversial revenue-raising Berkeley proposition. While I doubt he has any
 chance of winning, expressing my disapproval of his brand of politics is
-important, so I will definitely be voting for Bartlett and Matthews in some
-order in this ranked-choice election.
+important, so I definitely need to vote for Bartlett and Matthews in some order
+in this ranked-choice election rather than abstain.
+
+At the end of the day, I don't like Bartlett but I'm not going to vote for a
+challenger from the right. I'm voting Bartlett #1, Matthews #2, and hoping for
+more inspiring candidates next time.
