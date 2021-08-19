@@ -4,7 +4,7 @@ title: 'November 2020 Cheat Sheet'
 menu:
   main:
     name: Nov 2020
-    weight: 2
+    weight: 3
 ---
 
 Here are my current recommendations.

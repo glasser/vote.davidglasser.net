@@ -3,7 +3,7 @@ date: 2018-10-25T12:00:02-07:00
 title: 'November 2018 Cheat Sheet'
 menu:
   main:
-    name: November 2018
+    name: Nov 2018
     weight: 6
 ---
 
