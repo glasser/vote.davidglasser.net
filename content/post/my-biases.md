@@ -26,15 +26,15 @@ society a better place, but do not always live up to that standard.
 <!--more-->
 
 I'm a thirty-something cis white Jewish man living in Berkeley, California. I'm
-the father of two kids who I intend to send to our local public schools. I
-formerly rented in the Mission and SOMA in San Francisco. I work at a VC-funded
-startup in San Francisco; before 2012 I worked at a larger tech company and rode
-the buses down the peninsula. My wife and I own our home. Pre-covid, I commuted
-daily via BART and relied primarily on walking, BART, biking, AC Transit, and
-Muni to get around. (These days I work from home, don't go to too many places,
-walk and bike, and look forward to returning to public transit.) We do now own a
-minivan but do not use it for any regular work or preschool commutes (when they
-existed).
+the father of two kids; one is in preschool and one is in Berkeley public
+schools. I formerly rented in the Mission and SOMA in San Francisco. I work at a
+VC-funded startup in San Francisco; before 2012 I worked at a larger tech
+company and rode the buses down the peninsula. My wife and I own our
+home. Pre-covid, I commuted daily via BART and relied primarily on walking,
+BART, biking, AC Transit, and Muni to get around. (These days I work from home,
+don't go to too many places, walk and bike, and look forward to returning to
+public transit.) We do now own a minivan but do not use it for any regular work
+or school commutes.
 
 I hope for candidates to match to match my personal beliefs more and more
 closely as their district shrinks.  So I often find myself excited about
