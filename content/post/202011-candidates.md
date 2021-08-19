@@ -1,10 +1,6 @@
 ---
 date: 2020-11-03T12:00:01Z
 title: 'November 2020: Candidates'
-menu:
-  main:
-    name: Nov 2020 Candidates
-    weight: 4
 ---
 
 Here are my current thoughts on candidates on the November 2020 ballot in

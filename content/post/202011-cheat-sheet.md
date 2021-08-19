@@ -3,7 +3,7 @@ date: 2020-11-03T12:00:02Z
 title: 'November 2020 Cheat Sheet'
 menu:
   main:
-    name: Nov 2020 Cheat Sheet
+    name: Nov 2020
     weight: 2
 ---
 
