@@ -3,7 +3,7 @@ date: 2018-05-28T23:40:13-07:00
 title: 'June 2018: Candidates'
 ---
 
-Here are my current thoughts on candidates on the November 2016 ballot in
+Here are my current thoughts on candidates on the June 2018 ballot in
 Berkeley, in ballot order.
 
 <!--more-->
