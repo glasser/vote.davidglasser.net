@@ -4,7 +4,7 @@ title: 'June 2018 Cheat Sheet'
 menu:
   main:
     name: June 2018
-    weight: 9
+    weight: 90
 ---
 
 Here are my current recommendations in ballot order.

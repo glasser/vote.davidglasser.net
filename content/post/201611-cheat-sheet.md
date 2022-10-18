@@ -4,7 +4,7 @@ title: 'November 2016 Cheat Sheet'
 menu:
   main:
     name: Nov 2016
-    weight: 10
+    weight: 100
 ---
 
 Here are my current recommendations in ballot order.

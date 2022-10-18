@@ -30,10 +30,8 @@ the father of two kids; one is in preschool and one is in Berkeley public
 schools. I formerly rented in the Mission and SOMA in San Francisco. I work at a
 VC-funded startup in San Francisco; before 2012 I worked at a larger tech
 company and rode the buses down the peninsula. My wife and I own our
-home. Pre-covid, I commuted daily via BART and relied primarily on walking,
-BART, biking, AC Transit, and Muni to get around. (These days I work from home,
-don't go to too many places, walk and bike, and look forward to returning to
-public transit.) We do now own a minivan but do not use it for any regular work
+home. We rely primarily on walking, biking, AC Transit, and to some degree BART
+to get around. We do now own a minivan but do not use it for any regular work
 or school commutes.
 
 I hope for candidates to match to match my personal beliefs more and more
@@ -73,7 +71,7 @@ to counteract that effect via respect for my neighbors and via the ballot box,
 but acknowledge that this may not be fully possible.
 
 I believe that a huge amount of what law enforcement agencies do is actively
-harmful to my values and to real safety, and that goverments must stop defunding
+harmful to my values and to real safety, and that governments must stop defunding
 education, health, housing and so many other important priorities, and start
 defunding the police.
 
