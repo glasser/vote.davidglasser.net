@@ -1,3 +1,19 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://vote.davidglasser.net/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'David Glasser Votes'
+theme = 'poison'
+paginate = 10
+pluralizelisttitles = false   # removes the automatically appended "s" on sidebar entries
+
+[author]
+name = "David Glasser"
+
+
+[params]
+
+brand = "David Glasser Votes"
+description = "Thoughts on my ballot."
+rss_icon = true
+github_url = "https://github.com/glasser/vote.davidglasser.net"
+sidebar_bg_color = "#d28445"
+sidebar_p_color = "rgba(255,255,255,.5)"
