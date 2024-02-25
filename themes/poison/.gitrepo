@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/lukeorth/poison.git
+	branch = master
+	commit = 8dffa65ed3a73b60a5097340761ac73b8774cf73
+	parent = d489a83ab41ad1415bcb641bd9aa149fc9fb05ef
+	method = merge
+	cmdver = 0.4.6
