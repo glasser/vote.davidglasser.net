@@ -64,6 +64,15 @@ gun control.
 I support the rights of undocumented immigrants, such as my great-grandmother
 after whom we named my daughter.
 
+While I believe that the Jewish people have an ancient and powerful connection
+to the land between the river and the sea and that all else being equal, it is
+good for Jews to be able to live and visit there, I do not believe that makes
+Jewish-supremacist ethnonationalism in Israel any more moral than white- or
+Christian-supremacist nationalism is here. Rather than making the world safer
+for Jews, Zionism turns progressive Jews into hypocrites and separates us from
+our natural allies in the fight for tikkun olam and against white-supremacist
+Christofascism.
+
 I am fully aware that I am a white person who recently moved into a historically
 black neighborhood (though my wife has lived in the neighborhood off and on for
 decades) and that makes me part of the problem of gentrification. I do my best
