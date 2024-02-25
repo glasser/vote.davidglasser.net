@@ -6,12 +6,10 @@ paginate = 10
 # removes the automatically appended "s" on sidebar entries (from poison docs)
 pluralizelisttitles = false
 
-[author]
-name = "David Glasser"
-
 
 [params]
 
+author = { name = "David Glasser" }
 brand = "David Glasser Votes"
 description = "Thoughts on my ballot."
 rss_icon = true
