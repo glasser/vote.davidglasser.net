@@ -3,7 +3,8 @@ languageCode = 'en-us'
 title = 'David Glasser Votes'
 theme = 'poison'
 paginate = 10
-pluralizelisttitles = false   # removes the automatically appended "s" on sidebar entries
+# removes the automatically appended "s" on sidebar entries (from poison docs)
+pluralizelisttitles = false
 
 [author]
 name = "David Glasser"
@@ -17,3 +18,6 @@ rss_icon = true
 github_url = "https://github.com/glasser/vote.davidglasser.net"
 sidebar_bg_color = "#d28445"
 sidebar_p_color = "rgba(255,255,255,.5)"
+
+# The default these days is to call this "posts" but that would break all my old links
+front_page_content = ["post"]
