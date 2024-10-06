@@ -6,6 +6,8 @@ jobs:
     - image: circleci/buildpack-deps:latest
     steps:
     - checkout
+    - run: curl https://mise.run | sh
+    - run: curl mise install
     - run: bash ./ci-install-deps.sh
-    - run: ./hugo -v
+    - run: mise x -- hugo -v
     - run: '[ "$CIRCLE_BRANCH" == master ] && ./s3deploy -source=public/ -region=us-east-1 -bucket=vote.davidglasser.net -public-access || true'
