@@ -34,13 +34,13 @@ BART Director, D7 | Victor Flores?
 34 (prevent one particular nonprofit from funding ballot measures) | No
 35 (make existing health care tax permanent) | Yes?
 36 (more incarceration for smaller crimes) | NO
-Berkeley W (increase real estate transfer tax) | Yes?
+Berkeley W (maintain and increase high-end real estate transfer tax) | Yes
 Berkeley X (library tax) | Yes
 Berkeley Y (parks and trees tax) | Yes
 Berkeley Z (continue soda tax) | YES
 Berkeley AA (let us spend our budget) | YES
-Berkeley BB (rent control changes) | ?
-Berkeley CC (more rent control changes) | ?
+Berkeley BB (strengthen rent control) | Yes?
+Berkeley CC (weaken rent control) | No
 Berkeley DD (symbolic factory farm ban) | No?
 Berkeley EE (poison pill anti-street-safety trick) | **NO!!!**
 Berkeley FF (pave streets and make them safer) | **YES!!!**
