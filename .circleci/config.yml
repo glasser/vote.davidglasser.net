@@ -7,6 +7,7 @@ jobs:
     steps:
     - checkout
     - run: |
+        echo "PATH: $PATH"
         curl https://mise.run | sh
         mise install
     - run: bash ./ci-install-deps.sh
