@@ -7,9 +7,8 @@ jobs:
     steps:
     - checkout
     - run: |
-        echo "PATH: $PATH"
         curl https://mise.run | sh
         mise install
-    - run: bash ./ci-install-deps.sh
+        bash ./ci-install-deps.sh
     - run: mise x -- hugo -v
     - run: '[ "$CIRCLE_BRANCH" == master ] && ./s3deploy -source=public/ -region=us-east-1 -bucket=vote.davidglasser.net -public-access || true'
