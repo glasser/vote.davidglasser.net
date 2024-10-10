@@ -1,2 +1,5 @@
 [tools]
 hugo = "0.122.0"
+rust = "1.81.0"
+"cargo:ubi-cli" = "0.2.0"
+"ubi:bep/s3deploy" = "v2.3.2"
