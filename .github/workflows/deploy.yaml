@@ -1,0 +1,13 @@
+name: deploy
+on:
+  push:
+    branches:
+      - main
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jdx/mise-action@v2
+      - run: hugo -v
+      - run: s3deploy -source=public/ -region=us-east-1 -bucket=vote.davidglasser.net -public-access
