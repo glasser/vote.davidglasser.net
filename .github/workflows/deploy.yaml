@@ -9,5 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: jdx/mise-action@v2
+        with:
+          experimental: true  # for ubi backend
       - run: hugo -v
       - run: s3deploy -source=public/ -region=us-east-1 -bucket=vote.davidglasser.net -public-access
