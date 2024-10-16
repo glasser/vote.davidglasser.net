@@ -20,3 +20,5 @@ jobs:
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          # https://github.com/aws/aws-cli/issues/5262#issuecomment-705832151
+          AWS_EC2_METADATA_DISABLED: 'true'
