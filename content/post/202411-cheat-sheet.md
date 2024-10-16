@@ -46,7 +46,7 @@ Berkeley EE (poison pill anti-street-safety trick) | **NO!!!**
 Berkeley FF (pave streets and make them safer) | **YES!!!**
 Berkeley GG (natural gas tax) | No?
 Berkeley HH (municipal building indoor air quality standards) | ?
-Berkeley Mayor | Adena Ishii #1
+Berkeley Mayor | Adena Ishii #1 (and I guess Kate Harrison #2)
 Berkeley City Council, D3 | ?
 
 Bonus would-be endorsement: Congratulations to Jean Walsh, running unopposed for re-election as AC Transit Ward 2 director (not on the ballot).
