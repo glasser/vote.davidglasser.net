@@ -19,7 +19,7 @@ The purpose of this website is not to explain why to vote for Democrats when the
 
 Do I have some differences of opinion with Kamala Harris? Are there people I'd rather see as President than her? Sure. But this is the ninth time she's shown up on my ballot (following once for SF DA, four times for CA AG, twice for Senate, and once for VP), and just like the last 8 times,she's by far the best choice there.
 
-## Senator (full term and partial term) | Adam Schiff twice
+## Senator (full term and partial term): Adam Schiff twice
 
 I didn't vote for him in the primary, but see first paragraph of previous section.
 
