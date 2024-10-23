@@ -76,7 +76,9 @@ I think I lean slightly towards Babitt based on the garage story, but wish I und
 
 ## BART Director, District 7: Victor Flores
 
-Despite caring a lot about BART, I haven't researched this race in depth. My impression is that neither candidate is bad, but Flores seems to be more passionate and dedicated to transit; friends who are more tapped into this right now than me all seem to endorse him.
+Despite caring a lot about BART, I haven't researched this race in depth. My impression is that neither candidate is bad, but Flores seems to be more passionate and dedicated to transit; friends who are more tapped into this right now than me all seem to endorse him. Dana Lang seems very competent and I like some of her ideas and priorities.
+
+From reading their sites, the most concrete difference between them is that Flores says he will "use his campaign experience and region relationships to fight for a regional funding measure", whereas Lang will "identify and secure regional, state, and federal funding that doesn’t add strain to our local taxpayers". That is, while they both want to find sources of funding for BART other than taxes and fares (and perhaps Lang has deeper skills doing so), Flores also supports shifting more of the funding towards new taxes, and Lang doesn't. BART has the highest [farebox recovery ratio](https://en.wikipedia.org/wiki/Farebox_recovery_ratio) of any subway system in the US: far more of its costs are paid directly by fares instead of being treated as a public good funded by taxes (like how we pay for roads). I'm in favor of making BART more like other public transit systems that are more funded by property taxes, so this helps tip the balance towards Flores for me.
 
 ## Berkeley Mayor: Adena Ishii #1, Kate Harrison (distant) #2
 
