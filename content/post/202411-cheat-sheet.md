@@ -37,7 +37,7 @@ BART Director, D7 | Victor Flores
 32 (increase minimum wage) | Yes
 33 (repeal costa-hawkins to allow more rent control) | Yes
 34 (prevent one particular nonprofit from funding ballot measures) | No
-35 (make existing health care tax permanent) | Yes
+35 (make existing health care tax permanent) | Yes?
 36 (more incarceration for smaller crimes) | **NO!!!**
 Berkeley W (maintain and increase high-end real estate transfer tax) | Yes
 Berkeley X (library tax) | YES
