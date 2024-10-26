@@ -41,7 +41,7 @@ I have generally not been impressed by my mayor, Jesse Arreguin. I voted for him
 I wasn't enthusiastic about Wicks carpetbagging her way into this seat in 2018, but she's been OK-to-great. Her opponent, Margot Smith, is one of the few recognizable names endorsing Berkeley's Prop EE, the anti-street-safety poison pill measure. No thanks.
 
 
-## Alameda County Supervisor, District 5: ?
+## Alameda County Supervisor, District 5: Nikki Fortunato Bas?
 
 This is a tough one for me. I voted for John Bauters in the [primary]({{< relref "202403.md" >}}), but as I said then, Nikki Fortunato Bas also seemed great. When I saw that they both won, I was partially relieved that this meant a candidate I liked would be elected... and partially pessimistic that this might lead to a nasty fight where two candidates I respect drag each other through the mud over their differences... or worse, leads Bauters to actually move in a more conservative direction to capitalize on his position slightly to her right.
 
@@ -49,7 +49,7 @@ And that's what we've gotten. See this [anti-Bauters site](https://truthaboutbau
 
 I still think they'd both be pretty good. From a self-centered perspective, Bauters is one of the most pro-bike/walking/transit elected officials in the Bay Area, and I'd love to see him in a bigger position. On the other hand, the supervisors have oversight over the county sheriffs and jails, and while Bauters has avoided actively taking endorsements or directed donations from police unions and the like, the Oakland police union has backed a pro-Bauters PAC. I'm also struggling to understand the accusations around Emeryville's minimum wage laws: it looks like in 2019 he was instrumental in rolling back a minimum wage hike, though since then hikes have happened and Emeryville in fact has a very high minimum wage (and I can't really tell to what degree he's supported it, but he does state Emeryville has a high minimum wage on [his campaign site](https://www.bautersforsupervisor.com/facts)... though he also doesn't take credit for it!).
 
-At the moment I'm very slightly leaning towards Bas.
+At the moment I'm very slightly leaning towards Bas. (I may also be trying to do a bit of a "split ballot" where I vote for some candidates that are a bit more on the YIMBY/bikey side and some that are a bit more on the social-justice/anti-displacement side... if I'm voting for Bartlett for council, maybe I vote for Bas here.)
 
 
 ## District Attorney Recall: **NO**

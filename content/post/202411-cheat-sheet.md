@@ -24,7 +24,7 @@ Senator (partial term) | Adam Schiff
 US Representative, D13 | LATEEFAH SIMON
 State Senate, D7 | JOVANKA BECKLES
 State Assembly, D15 | Buffy Wicks
-Supervisor, D5 | ?
+Supervisor, D5 | Nikki Fortunato Bas?
 District Attorney Recall | **NO**
 Berkeley Rent Board | Alfred Twu, Dominique Walker, Xavier Johnson, Avery Arbaugh
 Berkeley School Directors | Ana Vasudeo and Jen Corn
