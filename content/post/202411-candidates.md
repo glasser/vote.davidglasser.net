@@ -64,7 +64,7 @@ A vote for the recall is a vote to have no power over who is the DA. Vote no on 
 
 I typically vote for the tenant slate for the rent board, and I typically vote for Alfred Twu for whatever. So I'll do that again.
 
-## Berkeley School Directors: Ana Vasudeo, and probably Laura Babitt but maybe Jen Corn
+## Berkeley School Directors: Ana Vasudeo and Jen Corn
 
 I'm a bit confused by this race.
 
@@ -72,7 +72,9 @@ Vasudeo seems to be generally endorsed by everyone. Harrison and Sikder are not 
 
 The Berkeleyside op-eds for [Babitt](https://www.berkeleyside.org/2024/10/13/opinion-re-elect-president-emeritus-laura-babitt-school-board) and [Corn](https://www.berkeleyside.org/2024/10/13/opinion-vote-jen-corn-experienced-public-education-leader-berkeley-school-board) are a lot of what I'm relying on here. I do see a lot more concreteness in the Babitt endorsements... but perhaps that's natural as an incumbent with specific accomplishments to point to. (And my favorite part of that op-ed is Terry Taplin talking about how she found a way to avoid building an expensive and unnecessary garage for Berkeley High... but Taplin also endorses Corn!)
 
-I think I lean slightly towards Babitt based on the garage story, but wish I understood this race better.
+One other notable fact: when the BUSD superintendent was being grilled by right-wingers Congress over supposed antisemitism in the school district, four of the five school board members wrote a letter backing her up and supporting teachers in the district. Laura Babitt did not. (As somebody whose journey towards questioning the Zionism I was raised with started when my high school fired two teachers for supporting a student group who wanted to invite a local Palestinian professor to give a talk, this is somewhat dear to my heart.) This appears to be one of the actual differences between Babitt and Corn.
+
+I lean towards Corn (and Vasudeo) based on this, though the garage story is tempting too. (And I certainly recognize that some of my friends and family may take Babitt's action as a reason to vote for her rather than for her opponent.)
 
 ## BART Director, District 7: Victor Flores
 
@@ -93,9 +95,14 @@ Sophie Hahn is one of only two sitting City Council members to not endorse Prop 
 Kate Harrison rage-quit her City Council seat at the beginning of the year in the middle of a meeting, claiming that the city's processes were broken. Unlike Rigel Robinson (who resigned a few weeks earlier citing harassment and left politics entirely), Harrison continued to run for Mayor. Now, Berkeley isn't like Oakland or San Francisco, where the Mayor is part of a separate executive branch from City Council. We have an appointed City Manager that plays that sort of role. Berkeley's Mayor is essentially an at-large City Council member with extra ceremonial duties. The main way they influence policy is exactly like City Council members: they get one vote at Council, they get one appointment to each committee, etc. If Harrison can't deal with Council as a district member, it's unclear how she can deal with Council as an at-large member. This bizarre choice alone would completely disqualify her for me... but she's at least marginally more supportive of street safety than Hahn, so I'll rank her #2. (In general, while I am not as YIMBY-leaning as I was a decade ago, Harrison is quite far on the NIMBY side for me. But I still like her more than Hahn!)
 
 
-## Berkeley City Council, District 3: ?
+## Berkeley City Council, District 3: Ben Bartlett, I guess
 
-I am tired of choosing between Ben Bartlett and Deborah Matthews for the [third]({{< relref "201611-candidates.md" >}}) [time]({{< relref "202011-candidates.md" >}}). (See those links for reminders of why.) I am seriously considering Chip Moore as "not Bartlett or Matthews", although I suspect that's a vote to never see housing built at Ashby BART. I'd like to get a chance to watch Moore (and the others) in a [forum](https://www.berkeleyside.org/2024/09/16/berkeley-2024-election-candidate-forums) video before making my final decision here.
+I am tired of choosing between Ben Bartlett and Deborah Matthews for the [third]({{< relref "201611-candidates.md" >}}) [time]({{< relref "202011-candidates.md" >}}), though between the two, I do still slightly prefer Bartlett over Matthews for similar reasons as in 2020.
+
+I did seriously consider Chip Moore as "not Bartlett or Matthews". From what I've learned about him, he does strike me as an honest and passionate person, who I agree with about many things. I respect his work on the Police Accountability Board (appointed by Bartlett!). He's part of Friends of Adeline, whose position is essentially that Ashby BART should be 100% affordable housing, which in practice is likely to mean a lot of obstruction of any project that actually will happen there. I was considering voting for him anyway despite my hope for lots of housing at Ashby (and maybe voting for some other more YIMBY-ish candidates like Bauters). Then I learned from watching this [candidate forum](https://www.youtube.com/watch?v=uk7KR6jTGi4&t=1760s) that despite being listed as an endorser on the FF website, he apparently has changed his mind and is currently endorsing EE now, and is repeating some of the standard misinformation about how bike lanes are impossible for garbage trucks. If he were only anti-Ashby-housing or only anti-bike-lanes I might manage to vote for him, but both seems like a lot.
+
+So I guess I'm voting for Bartlett again. Honestly, watching the forum above got me a tiny bit excited about him --- he is a charismatic and compelling speaker who makes a pretty good argument for his tenure. I just find it hard to trust him. Not sure who to put #2, if any.
+
 
 ## AC Transit Director, Ward 2: **JEAN WALSH** (except she's not on the ballot)
 
