@@ -4,7 +4,7 @@ title: 'November 2024 Cheat Sheet'
 menu:
   main:
     name: Nov 2024
-    weight: 1
+    weight: 3
 ---
 
 Here are my current recommendations.
