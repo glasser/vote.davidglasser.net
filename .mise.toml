@@ -1,4 +1,4 @@
 [tools]
 hugo = "0.122.0"
-"ubi:bep/s3deploy" = "v2.12.0"
-awscli = "2.18.7"
+"github:bep/s3deploy" = "2.16.0"
+awscli = { version = "2.34.54", symlink_bins = "true" }
