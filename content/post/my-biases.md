@@ -72,7 +72,7 @@ for Jews, Zionism turns progressive Jews into hypocrites and separates us from
 our natural allies in the fight for tikkun olam and against white-supremacist
 Christofascism.
 
-I am fully aware that I am a white person who recently moved into a historically
+I am fully aware that I am a white person who moved into a historically
 black neighborhood (though my wife has lived in the neighborhood off and on for
 decades) and that makes me part of the problem of gentrification. I do my best
 to counteract that effect via respect for my neighbors and via the ballot box,
